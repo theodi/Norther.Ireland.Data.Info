@@ -1,0 +1,830 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p dir=\"ltr\">Open data platforms are pieces of software that make it simpler to publish and manage open data on the Web.</p><p dir=\"ltr\">For publishers, an open data platform provides a pathway to publish data, guiding them through the process. We use Open Data NI which is run on CKAN to publish all NI government open data.</p><p dir=\"ltr\">For users, platforms can help make open data from around the world consistent and easy to access.</p><p dir=\"ltr\">To find out how easy it is to publish open data on OpenDataNI, check out our <a href=\"https://www.youtube.com/playlist?list=PLZU73qLsyYAJSFLTgcrR4BlAczHfUFMB7\" target=\"_blank\">Publisher Demos Playlist on YouTube</a>.</p>",
+    "_id": "60da4b17d0a9ce7fbf3a70b1",
+    "_layout": "left",
+    "_parentId": "60da4b16d0a9ce7fbf3a7027",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open data platforms across Europe",
+    "displayTitle": "Open data platforms across Europe",
+    "body": "<p>Europe is home to hundreds of open data platforms at the local, regional and national level. When searching for open data, it can be useful to access a directory of these platforms to help you locate what sources of data are available. The <a href=\"https://www.opendatamonitor.eu/frontend/web/index.php?r=dashboard/index\" target=\"_blank\">OpenDataMonitor project</a> is a European index of open data sites and provides a useful reference guide. Why not explore the index to discover what data is available for different countries, regions and cities?</p>",
+    "_id": "60da4b17d0a9ce7fbf3a70b2",
+    "_layout": "left",
+    "_parentId": "60da4b16d0a9ce7fbf3a703a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b17d0a9ce7fbf3a70bc",
+    "_layout": "right",
+    "_parentId": "60da4b16d0a9ce7fbf3a7027",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Approaches blocks photo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b17d0a9ce7fbf3a70c5",
+    "_layout": "left",
+    "_parentId": "60da4b16d0a9ce7fbf3a7038",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f2673e12ba44482e687a137cb8eec40db8be15d0.jpg",
+      "small": "course/en/assets/f2673e12ba44482e687a137cb8eec40db8be15d0.jpg",
+      "attribution": "<a href=\"https://pixabay.com/photos/puzzle-cube-wood-block-toys-7503/\" target=\"_blank\">Hans</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Europe Map",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4b17d0a9ce7fbf3a70c6",
+    "_layout": "right",
+    "_parentId": "60da4b16d0a9ce7fbf3a703a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6c1b3070a696a64d5f85254726363f14d4d4ff85.jpg",
+      "small": "course/en/assets/6c1b3070a696a64d5f85254726363f14d4d4ff85.jpg",
+      "attribution": "<a href=\"https://pixabay.com/photos/globe-map-country-borders-old-3383088/\" target=\"_blank\">Michael Gaida</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " NI Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b17d0a9ce7fbf3a7127",
+    "_layout": "right",
+    "_parentId": "60da4b16d0a9ce7fbf3a7077",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Getting to grips with platforms",
+    "displayTitle": "Getting to grips with platforms",
+    "body": "<p dir=\"ltr\">A platform is a major piece of software on which smaller pieces of software and content can be run. For open data, the largest platform is the web. There are lots of other purpose-built software that can help you to publish open data, or provide interactive tools to help you to explore it.</p><p dir=\"ltr\">Our platform is <a href=\"https://www.opendatani.gov.uk\" target=\"_blank\">OpenDataNI</a>. All government data should be published here. You might come across other open data platforms when searching for data.</p><p><strong>In this module we’ll explore the following:</strong></p><ul><li>What open data platforms are</li><li>Why open data platforms matter</li><li>Approaches to open data platform design</li><li>Open data platforms across Europe</li></ul>",
+    "_id": "60da4b17d0a9ce7fbf3a7128",
+    "_layout": "left",
+    "_parentId": "60da4b16d0a9ce7fbf3a7077",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open data platforms – in two minutes",
+    "displayTitle": "Open data platforms – in two minutes",
+    "body": "<p>ODI Trainer David Tarrant explains what open data platforms are, the different platforms available and the advantages of platforms for users.</p>",
+    "_id": "60da4b17d0a9ce7fbf3a7129",
+    "_layout": "full",
+    "_parentId": "60da4b16d0a9ce7fbf3a7078",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129196991",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is an open data platform?",
+    "displayTitle": "",
+    "body": "<p>Open data platforms are pieces of software that make it simpler to publish and manage open data on the web.</p><p>For publishers, an open data platform provides a pathway to publish data. Platforms guide publishers through the process of publishing data, and offer users consistency and ease of access to open data from around the world.</p><p dir=\"ltr\">Across government and the civil service in Northern Ireland, our open data platform is <a href=\"https://www.opendatani.gov.uk/\" target=\"_blank\">OpenDataNI.</a>&nbsp;The OpenData NI platform is available for all NI public sector bodies to publish their data on at no cost.</p>",
+    "_id": "60da4b17d0a9ce7fbf3a712a",
+    "_layout": "full",
+    "_parentId": "60da4b16d0a9ce7fbf3a7079",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Key features of open data platforms",
+    "displayTitle": "Key features of open data platforms",
+    "body": "<p dir=\"ltr\">Open data platforms make it easier for users to <strong>discover</strong>, <strong>access</strong> and <strong>use consistent open data</strong>.</p>",
+    "_id": "60da4b17d0a9ce7fbf3a712b",
+    "_layout": "full",
+    "_parentId": "60da4b16d0a9ce7fbf3a707a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow for more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Discoverable data",
+        "_ariaLevel": 0,
+        "body": "<p>Open data platforms promote open data to users. Platforms are designed to allow users to quickly find and reuse relevant open data.</p><p>Platforms are search-optimised to make it easier to find relevant resources. Platforms also provide data-feeds that can be discovered and indexed in systems across the Web.</p><p>These data feeds allow search engines like Enigma.io to index open data and make it easier to find.<br /><a href=\"http://www.enigma.io/\" target=\"_blank\">Discover more at enigma.io</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/2e0924809bdb1cc64b452bfc6b489765f5b34f97.png",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Discoverable"
+      },
+      {
+        "title": "Consistent user experience",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">There are a limited number of open data platforms, which means you don’t need to understand lots of different technologies to discover large amounts of open data.</p><p dir=\"ltr\">Open data platforms are designed with the user in mind – their layout and design can make it easier to discover data.</p><p dir=\"ltr\">For examples of sites using open data platforms, look at:&nbsp;<a href=\"http://www.data.gov.uk/\" target=\"_blank\">data.gov.uk</a>,&nbsp;<a href=\"https://data.gov.ie/\" target=\"_blank\">data.gov.ie</a> or for something further afield <a href=\"https://africaopendata.org/\" target=\"_blank\">africaopendata.org</a></p><p>Note that many governments use a standard naming convention for the web address of the data platform, so a simple starting point for finding open data for a country is to enter data.gov.[country top-level domain].</p>",
+        "_graphic": {
+          "src": "course/en/assets/39f72dee7a1d6f2848fdcc04fb816b473a8a74c3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/jmZ6QjvJjvk\" target=\"_blank\">Kobu Agency</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Consistent experience"
+      },
+      {
+        "title": "Consistent access to data",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">The development of open standards by the web community has led to consistent Application Programming Interfaces (APIs) for discovering, accessing and using data.</p><p dir=\"ltr\">The limited number of open data platforms and consistent features of their user interfaces make it simple for people to use the different features while feeling comfortable with the software.</p><p dir=\"ltr\">The platforms also have similar structures and formats for exposing metadata, as well as the data itself.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5e6b09ebd818019053c8a173522152d33f8770b1.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/qwtCeJ5cLYs\" target=\"_blank\">Stephen Dawson</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Consistent access"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What is an open data platform?",
+    "displayTitle": "What is an open data platform?",
+    "body": "<p><strong>An open data platform is...</strong></p>",
+    "_id": "60da4b17d0a9ce7fbf3a712c",
+    "_layout": "left",
+    "_parentId": "60da4b16d0a9ce7fbf3a707b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": " a sales platform for businesses"
+      },
+      {
+        "text": "a piece of software that helps get open data on the web",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "an internal data management tool"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>An open data platform is a piece of software that helps get open data on the web. It provides publishers a streamed process for publishing data and users a consistent way to access, use and share data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>An open data platform is a piece of software that helps get open data on the web. It provides publishers a streamed process for publishing data and users a consistent way to access, use and share data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Grips with platform",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b17d0a9ce7fbf3a712d",
+    "_layout": "right",
+    "_parentId": "60da4b16d0a9ce7fbf3a707b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/32073fdfd002f1ea80c62602cdde3c28cf7a339f.jpg",
+      "small": "course/en/assets/32073fdfd002f1ea80c62602cdde3c28cf7a339f.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/DuHKoV44prg\" target=\"_blank\">Fotis Fotopoulos</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What are the benefits of an open data platform?",
+    "displayTitle": "What are the benefits of an open data platform?",
+    "body": "<p dir=\"ltr\"><strong>Open data platforms help...</strong></p>",
+    "_id": "60da4b17d0a9ce7fbf3a712e",
+    "_layout": "left",
+    "_parentId": "60da4b16d0a9ce7fbf3a707c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "make it easier for users to access and use open data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "ensure the data is high quality",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "ensure the data is documented correctly",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "keep the data consistent",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "make it easier for discover open data ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">The three main benefits of open data platforms are making it easier for users to <strong>discover</strong>, <strong>access</strong> and <strong>use open data</strong> and for publishers to <strong>keep the data consistent</strong>.</p><p>Although they can assist with establishing context and community, these aspects require additional effort from the publisher and remain two of the key challenges in open data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The three main benefits of open data platforms are making it easier for users to <strong>discover</strong>, <strong>access</strong> and <strong>use open data</strong> and for publishers to <strong>keep the data consistent</strong>.</p><p>Although they can assist with establishing context and community, these aspects require additional effort from the publisher and remain two of the key challenges in open data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Approaches to open data platform design",
+    "displayTitle": "Approaches to open data platform design",
+    "body": "<p dir=\"ltr\">Take a look at these two data platforms. <a href=\"https://opendata.bristol.gov.uk/pages/homepage/\" target=\"_blank\">Open Bristol</a> is a data management platform, whereas <a href=\"https://catalog.data.gov/dataset\" target=\"_blank\">the USA’s open data portal</a> is a data catalogue.</p>",
+    "_id": "60da4b17d0a9ce7fbf3a712f",
+    "_parentId": "60da4b16d0a9ce7fbf3a707d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Which is easier for monthly or yearly export reports?",
+        "_options": [
+          {
+            "text": "USA open data portal",
+            "_isCorrect": true
+          },
+          {
+            "text": "Open Bristol",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Which is easier for continuous live data?",
+        "_options": [
+          {
+            "text": "USA open data portal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Open Bristol",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Data catalogues, like the<a href=\"https://catalog.data.gov/dataset\" target=\"_blank\"> USA open data portal</a>, are easier for monthly or yearly export reports. Data management platforms, such as <a href=\"https://opendata.bristol.gov.uk/pages/homepage/\" target=\"_blank\">Open Bristol</a>, make it easier to publish continuous live data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Data catalogues, like the<a href=\"https://catalog.data.gov/dataset\" target=\"_blank\"> USA open data portal</a>, are easier for monthly or yearly export reports. Data management platforms, such as <a href=\"https://opendata.bristol.gov.uk/pages/homepage/\" target=\"_blank\">Open Bristol</a>, make it easier to publish continuous live data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b17d0a9ce7fbf3a7130",
+    "_parentId": "60da4b16d0a9ce7fbf3a707c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f6da9b8743f4f6ac921fda6a7fda0dbf7d8cdf64.jpg",
+      "small": "course/en/assets/f6da9b8743f4f6ac921fda6a7fda0dbf7d8cdf64.jpg",
+      "attribution": "<a href=\"unsplash.com\" target=\"_blank\">james day / jamesdayart.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Approaches to open data platform design",
+    "displayTitle": "Approaches to open data platform design",
+    "body": "<p>Platforms provide different approaches to publishing and exposing open data. Discover the different approaches below:</p>",
+    "_id": "60da4b17d0a9ce7fbf3a7131",
+    "_parentId": "60da4b16d0a9ce7fbf3a7038",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data catalogues",
+        "body": "<p dir=\"ltr\">An open data catalogue is a platform that lists datasets on the web. Data catalogues are like directories. They know what open data exists, what it is about, where it is and how to get hold of it.</p><p>An open data catalogue links users to data that is located somewhere else on the web. They offer a consistent way of locating a diverse set of data that is widely scattered.</p><p dir=\"ltr\">The CKAN platform, used by places like&nbsp;<a href=\"http://data.amsterdam.nl/\" target=\"_blank\">Amsterdam</a>,&nbsp;<a href=\"http://daten.berlin.de/\" target=\"_blank\">Berlin</a>&nbsp;and&nbsp;<a href=\"http://data.kk.dk/\" target=\"_blank\">Copenhagen</a>&nbsp;can be used as a data catalogue. Open Data NI also runs on CKAN.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data management",
+        "body": "<p dir=\"ltr\">Open data management platforms can also play an active role in the way a publisher manages and maintains a dataset. Publishers can update data directly in the platform and regularly provide updates.</p><p dir=\"ltr\">For users, searching for and manipulating open data without having to download it can make reusing it a lot easier.</p><p dir=\"ltr\">For publishers however, there is a much greater challenge in structuring and formatting data for the platform. This can be overcome if the publisher also uses the publishing platform to access the data.</p><p dir=\"ltr\">The Socrata platform, used by&nbsp;<a href=\"https://opendata.bristol.gov.uk/pages/homepage/\" target=\"_blank\">Bristol</a>&nbsp;and the&nbsp;<a href=\"https://opendata.camden.gov.uk/\" target=\"_blank\">London Borough of Camden</a>, and the Open Data Soft platform used by&nbsp;<a href=\"https://leicester.opendatasoft.com/pages/home/\" target=\"_blank\">Leicester City</a>&nbsp;are good examples of data management platforms.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Comparison",
+        "body": "<p>Data catalogues provide:</p><ul><li>Federated search across a wide domain.</li><li>Mechanisms for discovery.</li><li>Key metadata relating to licence and how up to date the data is.</li></ul><p>Data management platforms provide:</p><ul><li>Authoritative sources for data.</li><li>Increased data quality.</li><li>The ability to search and manipulate data directly.</li></ul><p>The distinctions between data management platforms and data catalogues can also vary between providers.&nbsp;<a href=\"https://how-to.usopendata.org/en/latest/The-Basics-of-Open-Data/Data-Repositories/\" target=\"_blank\">Take me to comparative analysis of data platforms</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b17d0a9ce7fbf3a714f",
+    "_parentId": "60da4b16d0a9ce7fbf3a707d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2687d7754fdf05463ac262aeda73ecfdad7548f4.jpg",
+      "small": "course/en/assets/2687d7754fdf05463ac262aeda73ecfdad7548f4.jpg",
+      "attribution": "<a href=\"unsplash.com\" target=\"_blank\">Nick Frewings</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  }
+]

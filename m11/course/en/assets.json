@@ -1,0 +1,202 @@
+{
+  "14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg": {
+    "title": "Open refine",
+    "description": "Source: openrefine.org",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": []
+  },
+  "2da5b534acdc8080cc6a818ac4af094a17d30785.jpg": {
+    "title": "Filing cabinet",
+    "description": "Source: http://www.shutterstock.com/pic-246719938",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": [
+      {
+        "title": "Generic",
+        "_id": "608686bfd0a9ce7fbf3a2d0b"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "608686bfd0a9ce7fbf3a2d0a"
+      },
+      {
+        "title": "Business",
+        "_id": "608686bfd0a9ce7fbf3a2d2d"
+      }
+    ]
+  },
+  "33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg": {
+    "title": "Cleaning 2",
+    "description": "Source: http://www.shutterstock.com/pic-232737427",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": []
+  },
+  "50253022ac8650bdccad84f4225f5100045c6da5.png": {
+    "title": "CC-BY-SA",
+    "description": "CC-BY-SA",
+    "source": "https://creativecommons.org/",
+    "licence": "CC0",
+    "attribution": "https://creativecommons.org/",
+    "tags": []
+  },
+  "6674b6d19f88e77b508eaea51cc20c51c91e6fcf.png": {
+    "title": "EDP logo",
+    "description": "EDP logo",
+    "source": "https://www.europeandataportal.eu/",
+    "licence": "All rights reserved",
+    "attribution": "European Data Portal",
+    "tags": []
+  },
+  "7c9694500a5abd685a4c7e162d12e6410f944aee.jpg": {
+    "title": "People",
+    "description": "People working",
+    "source": "https://www.shutterstock.com/image-photo/hard-disk-repair-concept-macro-photo-232737427",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kirill_M",
+    "tags": [
+      {
+        "title": "people",
+        "_id": "608686bed0a9ce7fbf3a2cf3"
+      },
+      {
+        "title": "toys",
+        "_id": "608686c2d0a9ce7fbf3a2d8b"
+      },
+      {
+        "title": "errors",
+        "_id": "608686c2d0a9ce7fbf3a2d8a"
+      }
+    ]
+  },
+  "8069d2a4618084e967165ac7f06b4750e01098da.png": {
+    "title": "Summary clipboard white",
+    "description": "Summary clipboard white",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "8955909579b53c7ebec6ce4d5df18706652bef7a.jpg": {
+    "title": "Spreadsheet",
+    "description": "Source: http://www.shutterstock.com/pic-224184241",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "608686bed0a9ce7fbf3a2cf4"
+      },
+      {
+        "title": "Photo",
+        "_id": "608686bed0a9ce7fbf3a2cef"
+      },
+      {
+        "title": "Tech",
+        "_id": "608686c2d0a9ce7fbf3a2d99"
+      }
+    ]
+  },
+  "94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg": {
+    "title": "Cleaning 3",
+    "description": "people cleaning",
+    "source": "http://www.shutterstock.com/pic-232737427",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kirill_M",
+    "tags": [
+      {
+        "title": "people",
+        "_id": "608686bed0a9ce7fbf3a2cf3"
+      },
+      {
+        "title": "cleaning",
+        "_id": "608686c3d0a9ce7fbf3a2db0"
+      },
+      {
+        "title": "people cleaning",
+        "_id": "608686c3d0a9ce7fbf3a2db1"
+      }
+    ]
+  },
+  "cb37a73180b59df11864f4753fdf885a658888d4.jpg": {
+    "title": "People network (430x430)",
+    "description": "People network (430x430)",
+    "source": "http://www.shutterstock.com/pic.mhtml?id=58591429&src=lb-36497927\n",
+    "licence": "Shutterstock standard licence",
+    "attribution": "higyou",
+    "tags": [
+      {
+        "title": "Linked",
+        "_id": "608686bed0a9ce7fbf3a2cfd"
+      },
+      {
+        "title": "Cartoon",
+        "_id": "608686bfd0a9ce7fbf3a2d0a"
+      }
+    ]
+  },
+  "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
+    "title": "Adapt eLearning",
+    "description": "Adapt eLearning",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": [
+      {
+        "title": "client logos",
+        "_id": "608686c4d0a9ce7fbf3a2df5"
+      }
+    ]
+  },
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "608686c5d0a9ce7fbf3a2e19"
+      },
+      {
+        "title": "intro logo",
+        "_id": "608686c5d0a9ce7fbf3a2e18"
+      }
+    ]
+  },
+  "f9855a4bc775449c566dabcd78c05fde759d0689.png": {
+    "title": "Open Logo Small",
+    "description": "Open Logo Small",
+    "source": "https://theodi.org",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "7ac658a53bf4a828175b32a479d87c8d1beaed71.png": {
+    "title": "NI-Logo-No-Text.png",
+    "description": "Open Data NI",
+    "source": "https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing",
+    "licence": "All rights reserved",
+    "attribution": "Open Data NI",
+    "tags": [
+      {
+        "title": "NI Gov",
+        "_id": "60ae5375d0a9ce7fbf3a41b4"
+      }
+    ]
+  },
+  "84d4e97867d8d6ac1431cde5ec5ca9a12f0936e6.png": {
+    "title": "NI-Logo-No-Text-white",
+    "description": "NI-Logo-No-Text-white",
+    "source": "https://www.opendatani.gov.uk/",
+    "licence": "All rights reserved",
+    "attribution": "NI No text",
+    "tags": []
+  }
+}

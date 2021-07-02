@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Unlocking value from open data",
+    "displayTitle": "Unlocking value from open data",
+    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.&nbsp;In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we’ll explore:</strong></p><ul><li>Opportunities for governments</li><li>Innovation and growth in businesses</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment</li><li>How data literacy can help unlock value</li></ul>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60da497dd0a9ce7fbf3a5db2",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/8127cf10d6151128ccbbe52256cf9d9c2f0a5ce3.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

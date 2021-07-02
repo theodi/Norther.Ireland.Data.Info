@@ -1,0 +1,752 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b50d0a9ce7fbf3a7779",
+    "_layout": "right",
+    "_parentId": "60da4b50d0a9ce7fbf3a76f1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Cleaning data",
+    "body": "<p dir=\"ltr\">Data cleaning is essential to ensure that when the data is used, the right conclusions are made.</p><p dir=\"ltr\">Often errors are not even noticed by data publishers because the data can change over many years. Errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p dir=\"ltr\">Be aware that cleaning may take longer than you think. A careful cleaning process will, however, save substantial time in the long run.</p><p dir=\"ltr\">Watch this <a href=\"https://www.youtube.com/watch?v=B70J_H_zAWM\" target=\"_blank\">introductory video to Open Refine</a> (previously Google Refine) and follow <a href=\"http://training.theodi.org/resources/Cleaning_Exercise.pdf\" target=\"_blank\">our data cleaning exercise to get started with Open Refine</a> and discover how easy it is for yourself.</p>",
+    "_id": "60da4b51d0a9ce7fbf3a778a",
+    "_layout": "left",
+    "_parentId": "60da4b50d0a9ce7fbf3a76f1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "NI Logo ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b51d0a9ce7fbf3a7802",
+    "_layout": "right",
+    "_parentId": "60da4b50d0a9ce7fbf3a7748",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How to clean your data",
+    "displayTitle": "How to clean your data",
+    "body": "<p>One of the biggest challenges when working with any data is dealing with errors. Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>When working with any data, it is important to know how to find errors and correct them to make the data more useful.</p><p><strong>In this module we&#39;ll explore the following:</strong></p><ul><li>Common data errors</li><li>Useful data cleaning tools</li><li>Reasons for cleaning data</li></ul>",
+    "_id": "60da4b51d0a9ce7fbf3a7803",
+    "_layout": "left",
+    "_parentId": "60da4b50d0a9ce7fbf3a7748",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Revealing the value: what do we mean by clean data?",
+    "displayTitle": "Revealing the value: what do we mean by clean data?",
+    "body": "<p>Knowing that data is clean is important to ensure you have a reliable starting point when working with it and creating new value from it.</p><p>Clean data is data that is consistent, free from duplication and ready for machine consumption.</p><p>If data is clean, it is easier to combine it with different datasets and gain deeper insights.</p>",
+    "_id": "60da4b51d0a9ce7fbf3a7804",
+    "_layout": "right",
+    "_parentId": "60da4b50d0a9ce7fbf3a7749",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " 1",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4b51d0a9ce7fbf3a7805",
+    "_layout": "left",
+    "_parentId": "60da4b50d0a9ce7fbf3a7749",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "small": "course/en/assets/2da5b534acdc8080cc6a818ac4af094a17d30785.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-246719938\" target=\"_blank\">Sashkin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Why does data need to be cleaned?",
+    "displayTitle": "Why does data need to be cleaned?",
+    "body": "<p><strong>Uncleaned open data is a problem because:</strong></p>",
+    "_id": "60da4b51d0a9ce7fbf3a7806",
+    "_layout": "left",
+    "_parentId": "60da4b50d0a9ce7fbf3a774a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "it cannot be plotted on a chart"
+      },
+      {
+        "text": "imperfect data should not be published",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "anything derived from the data won’t be completely accurate",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p dir=\"ltr\">Unclean data is a problem because anything derived from the data won’t be as accurate or effective. This should not prevent the publication or use of the data, but&nbsp;it needs to be cleaned first.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Unclean data is a problem because anything derived from the data won’t be as accurate or effective. This should not prevent the publication or use of the data, but&nbsp;it needs to be cleaned first.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " 2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b51d0a9ce7fbf3a7807",
+    "_layout": "right",
+    "_parentId": "60da4b50d0a9ce7fbf3a774a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cb37a73180b59df11864f4753fdf885a658888d4.jpg",
+      "small": "course/en/assets/cb37a73180b59df11864f4753fdf885a658888d4.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=58591429&src=lb-36497927\" target=\"_blank\">higyou</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are the benefits of cleaning data?",
+    "displayTitle": "What are the benefits of cleaning data?",
+    "body": "<p dir=\"ltr\">Data can lead to huge benefits for governments, the economy and people. However, if the data isn’t clean, analysis, insights or products derived from that data won’t be as effective. To realise the benefits of data, it needs to be up to date and correct.</p><p>A&nbsp;<a href=\"http://www.ercim.eu/publication/ws-proceedings/12th-EDRG/EDRG12_JeDiRe.pdf\" target=\"_blank\">recent study</a>&nbsp;found that the process of preparing data for analysis can take anywhere between 60% and 80% of the time of a data-driven project.</p>",
+    "_id": "60da4b51d0a9ce7fbf3a7808",
+    "_parentId": "60da4b50d0a9ce7fbf3a774b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Enhance usability",
+        "body": "<p dir=\"ltr\">Sharing a clean open dataset will make the data more usable. Tools like Open Refine allow you to share change history, letting people know what has been cleaned and how. Making the process open as well as the data adds to the sustainability and trust a user can put in a dataset.</p><p dir=\"ltr\">There are also data-cleaning communities emerging that could be supported more actively, such as <a href=\"https://wiki.openstreetmap.org/wiki/United_Kingdom\" target=\"_blank\">OpenStreetMap communities</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Discover insights",
+        "body": "<p dir=\"ltr\">Many data-cleaning tools help you to combine and enrich datasets. This can lead to valuable insights being discovered.</p><p dir=\"ltr\">For example, enriching a dataset that refers to businesses (by name or some other identifier) can inform you if the business is still trading and its current financial position.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What are common errors in data?",
+    "displayTitle": "What are common errors in data?",
+    "body": "<p><strong>Which of the following are errors in data that require cleaning?</strong></p>",
+    "_id": "60da4b51d0a9ce7fbf3a7809",
+    "_layout": "left",
+    "_parentId": "60da4b50d0a9ce7fbf3a774c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose three answers and click 'Submit'",
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "Mixed numerical scales"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Lack of granularity"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "Redundant data"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Lack of licence"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "Multiple representations"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p dir=\"ltr\">Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are a problem, they are not related to the data itself being unclean</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Mixed use of scales, redundant data and multiple representations of the same data are just some of the errors that need to be fixed in unclean data. While the granularity and lack of licence are a problem, they are not related to the data itself being unclean</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " 3",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4b51d0a9ce7fbf3a780a",
+    "_layout": "right",
+    "_parentId": "60da4b50d0a9ce7fbf3a774c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7c9694500a5abd685a4c7e162d12e6410f944aee.jpg",
+      "small": "course/en/assets/7c9694500a5abd685a4c7e162d12e6410f944aee.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/hard-disk-repair-concept-macro-photo-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common errors in data",
+    "displayTitle": "Common errors in data",
+    "body": "<p dir=\"ltr\">There are a number of common errors in data that you should look out for in any dataset you are working with.</p>",
+    "_id": "60da4b51d0a9ce7fbf3a780b",
+    "_parentId": "60da4b50d0a9ce7fbf3a774d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Wrong date formats",
+        "body": "<p>Dates can be written in inconsistent ways. Mixed date formats are sometimes simple to spot:</p><p>8-sep-2013 vs 8/9/2013</p><p>and sometimes less obvious:</p><p>8/9/2013 vs 9/8/2013.</p><p>Another challenge is that some applications, like Microsoft Excel, will ‘guess’ the format when a dataset is opened, which can hide how dates are actually written in the file.<br />The most common error is the mixed use of American (MM/DD/YYYY) and European (DD/MM/YYYY) formats.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Multiple representation",
+        "body": "<p dir=\"ltr\">People often try to save time when entering data by abbreviating terms. If these abbreviations are not consistent, they&nbsp;can cause errors in the dataset.</p><p dir=\"ltr\">Differences in capitalisation, spacing and genders of adjectives can all cause errors.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Duplicate records",
+        "body": "<p dir=\"ltr\">A duplicate record is where the same piece of data has been entered more than once. Duplicate records often occur when datasets have been combined or because it was not known there was already an entry.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Redundant data",
+        "body": "<p dir=\"ltr\">Redundant data is anything that is not relevant to your work with the dataset. Often a dataset has been created for a specific purpose which requires details you may not need.</p><p dir=\"ltr\">Common occurrences of redundant data include rows that represent total amounts.</p><p dir=\"ltr\">Other times columns of data have been combined or replicated in order to assist human readability.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mixed numerical scales",
+        "body": "<p dir=\"ltr\">Numerical values in datasets often use different scales to make it easier for a human to read. In budget datasets, for example, the units are often in the millions. 1,200,000 often becomes 1.2m. However, smaller amounts like 800,000 are still written in full. For a machine, this means they read the larger figure as 1.2, which causes errors.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mixed ranges",
+        "body": "<p dir=\"ltr\">Data is sometimes measured in ranges, such as age or salary range. In order for a machine to understand these ranges it is important to separate the high and low values.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Spelling errors",
+        "body": "<p dir=\"ltr\">Spelling errors are often difficult to identify in tabular data.</p><p dir=\"ltr\">Don’t forget to run your data through a spell-checker to catch spelling errors.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b51d0a9ce7fbf3a780c",
+    "_parentId": "60da4b50d0a9ce7fbf3a774d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The data-cleaning toolkit",
+    "displayTitle": "The data-cleaning toolkit",
+    "body": "<p>Without clean data, we can’t build information. There are several useful tools that can help the process of cleaning data.</p>",
+    "_id": "60da4b51d0a9ce7fbf3a780d",
+    "_parentId": "60da4b50d0a9ce7fbf3a774e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The data-cleaning toolkit",
+        "_ariaLevel": 0,
+        "body": "<p>When you are looking for errors in data, it may be necessary to download and upload datasets in many tools for cleaning and processing.</p><p>It is also important to keep a note of what changes have been made and share these openly with others so that everyone can benefit from your work, particularly if the data you are cleaning is existing open data that has been published.</p><p>In this section we look at two of the main tools and their uses:</p><ul><li>Open Refine</li><li>Microsoft Excel and similar spreadsheet programmes</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg",
+          "alt": "",
+          "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
+        },
+        "strapline": "Data cleaning"
+      },
+      {
+        "title": "Open Refine",
+        "_ariaLevel": 0,
+        "body": "<p>Open Refine is a software tool designed to deal with uncleaned data. The tool is a column-based browser that allows you to fix errors across an entire open dataset in a single action. The errors that can be fixed include:</p><ul><li>Date formats</li><li>Multiple representations</li><li>Duplicate records</li><li>Redundant data</li><li>Mixed numerical scales</li><li>Mixed ranges</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
+        },
+        "strapline": "Open Refine"
+      },
+      {
+        "title": "Spreadsheet programmes",
+        "_ariaLevel": 0,
+        "body": "<p>Open Refine is a key tool for cleaning data. However, it is sometimes easier to fix some errors in a spreadsheet programme:</p><ul><li>Spelling errors</li><li>Redundant data</li><li>Numerical verification</li><li>Fixing shifted data</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/8955909579b53c7ebec6ce4d5df18706652bef7a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
+        },
+        "strapline": "Spreadsheet programmes"
+      }
+    ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data cleaning – in two minutes",
+    "displayTitle": "Data cleaning – in two minutes",
+    "body": "<p>ODI Trainer David Tarrant explains why clean open data is important, how to clean open data you find and what tools are available to support you.</p>",
+    "_id": "60da4b51d0a9ce7fbf3a780e",
+    "_parentId": "60da4b50d0a9ce7fbf3a774f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129197207",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p dir=\"ltr\">While transparency is a key pillar in an open government it is not the only area where open data can play a key role.</p><p dir=\"ltr\">While current practices in some departments take a 'closed by default' approach, an 'open by default' approach would not only aid transparency but also provide benefits to the other pillars of an open government.&nbsp;</p><p dir=\"ltr\">Get yourself up to speed with the&nbsp;<a href=\"https://www.finance-ni.gov.uk/publications/open-data-strategy-northern-ireland-2020-2023\" target=\"_blank\">Open Data Strategy</a> for Northern Ireland&nbsp;and take a look at our <a href=\"https://www.opendatani.gov.uk/\" target=\"_blank\">open data portal</a></p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c26",
+    "_layout": "left",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5ba2",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60d9a7fed0a9ce7fbf3a5c35",
+    "_layout": "right",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5ba2",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The pillars of open government",
+    "displayTitle": "The pillars of open government",
+    "body": "<p dir=\"ltr\"><strong>Open government</strong> is made up of <strong>three key pillars</strong>: <strong>transparency, participation and accountability.</strong> Although not an official pillar, <strong>innovation</strong> is essential for an open government to deliver its commitments, which is why it’s included here.</p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c4a",
+    "_layout": "full",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bba",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Transparency",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Transparency of information is the foundation of accountability in public services and open government.</p><p dir=\"ltr\">Francis Maude, former minister for the Cabinet Office with responsibility for public transparency and open data said: \"<a href=\"https://www.theguardian.com/public-leaders-network/2012/sep/26/francis-maude-open-government-partnership\" target=\"_blank\">Transparency shines a light on underperformance and inefficiencies in public services. It allows citizens and the media to hold governments to account, strengthening civil society and building more open societies</a>.\"</p><p dir=\"ltr\"><a href=\"https://www.gov.uk/government/collections/open-government\" target=\"_blank\">The UK and devolved nations have individual commitments</a> to Open Government.&nbsp; Transparency is an essential part of Northern Ireland’s ongoing commitments, including improving transparency of government contracting, opening government and property data and building trust in government services.</p>",
+        "_graphic": {
+          "src": "course/en/assets/29627d3a06d8385dddf5564184c1c416a19d7723.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://static.pexels.com/photos/314829/pexels-photo-314829.jpeg\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Transparency"
+      },
+      {
+        "title": "Participation",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">An open government should encourage an independent civil society by involving people and organisations in developing, monitoring and evaluating government activities.</p><p dir=\"ltr\">Freedom of information provides a channel for the public to request information from public authorities. <a href=\"https://www.whatdotheyknow.com/?gclid=CjwKCAjwjbCDBhAwEiwAiudBy8f_qANfCG8yUOsqo5Cl8gL9Y0QOO2s0FF4TcEJt4yn--Q75uSiXqxoC3j8QAvD_BwE\" target=\"_blank\">WhatDoTheyKnow</a> is a UK site that helps people make freedom of information requests, and publishes all requests and responses online, reducing the duplicate requests and making information available to anyone.</p><p dir=\"ltr\">Both the UK as a whole and the devolved nations have <a href=\"https://www.opengovernment.org.uk/networks/\" target=\"_blank\">Open Government Networks</a>. These are alliances between individual people, activists and representatives of community and voluntary organisations to get more voices heard and make government more open, transparent and accountable.</p>",
+        "_graphic": {
+          "src": "course/en/assets/db2f34d9b31788d0e4e6ce1178d32be5b6388ffe.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/31-pOduwZGE\" target=\"_blank\">mauro mora</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Participation"
+      },
+      {
+        "title": "Accountability",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">An open government should put in place mechanisms and laws so they can be held to account.</p><p dir=\"ltr\">These include commitments to: publish information on the income and assets of high-ranking public officials; expose corrupt bidders; implement open contracting data standards; recover stolen assets; and protect whistleblowers.</p><p dir=\"ltr\">Increasingly, countries are taking steps to publish ‘beneficial ownership’ data <strong>–&nbsp;</strong>that is, information about who really owns and controls companies. This is important for exposing corruption, fraud, organised crime and tax evasion.&nbsp;</p><p dir=\"ltr\">Anti-corruption and accountability efforts are not just important in the UK but for any country that the UK chooses to do business with.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d57101018c9563ac3d4dafbc10597ffae8c71d14.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/DZpc4UY8ZtY\" target=\"_blank\">Tingey Injury Law Firm</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Accountability"
+      },
+      {
+        "title": "Innovation",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Technology has had a profound effect on all aspects of our lives. It has changed the way governments deliver services and engage with people&nbsp;</p><p dir=\"ltr\">As a result people now expect to be able to engage through advanced digital platforms that deliver end-to-end services across government departments, from applying for benefits and passports, to paying parking fines and getting information on waste collection.</p><p dir=\"ltr\">Governments have a key role to play in both delivering and enabling others to build digital services and technological innovation</p>",
+        "_graphic": {
+          "src": "course/en/assets/52eb40b636463e780cd9ec9f63f3f19467c819d8.jpg",
+          "alt": "Innovation",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/circuit-tree-technology-vector-background-eps10-271074140?src=id\" target=\"_blank\">Saibarakova Ilona</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Innovation"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is open government?",
+    "displayTitle": "What is open government?",
+    "body": "<p dir=\"ltr\">The UK is one of eight cofounding members of the <a href=\"https://www.opengovpartnership.org/\" target=\"_blank\">Open Government Partnership</a> (OGP), an initiative set up in 2011 and now signed by over 75 countries around the world. The OGP is an international platform for reformers committed to making their governments more open, accountable and responsive to people.</p><p dir=\"ltr\">You can explore what the <a href=\"https://www.opengovpartnership.org/our-members/\" target=\"_blank\">different country members are currently working on</a> to improve openness in government.</p><p dir=\"ltr\">Despite being a founding member, the OGP has<a href=\"https://www.opengovernment.org.uk/2021/03/03/uk-government-under-review-says-open-government-partnership/\" target=\"_blank\"> recently raised concerns</a> about the UK’s ability to adhere to the pillars of open government, meaning that there is a lot more work to be done.</p><ul></ul>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c4b",
+    "_layout": "full",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbb",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What are the pillars of open government?",
+    "displayTitle": "What are the pillars of open government?",
+    "body": "<p><strong>The pillars of open government are...</strong></p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c4c",
+    "_layout": "right",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbc",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Transparency, participation and accountability",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Finance, education and health",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Freedom of information, service delivery and innovation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Open government consists of <strong>transparency</strong>, <strong>participation</strong> and <strong>accountability</strong>.</p><p>Engagement, freedom of information and the publication of open data are all key activities that fit into the work of open government.<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Open government consists of transparency, participation and accountability.</p><p>Engagement, freedom of information and the publication of open data are all key activities that fit into the work of open government.<br />&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open government and open data",
+    "displayTitle": "Open government and open data",
+    "body": "<p>The Northern Ireland Executive has committed to an ambitious agenda on open data and transparency in government to improve the day-to-day lives of people in Northern Ireland.</p><p>Improved open data can help the public to make more informed decisions and the public sector to deliver better services. It can improve policymaking, stimulate economic growth and improve our environment.</p><p><strong>In this module, we are going to explore...</strong></p><ul><li>What is open government?</li><li>What is open data?</li><li>What is the role of open data in an open government?</li><li>Moving to an open by default&nbsp;agenda</li></ul>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c4d",
+    "_layout": "left",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbd",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "NI Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60d9a7fed0a9ce7fbf3a5c4e",
+    "_layout": "right",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbd",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What makes data open?",
+    "displayTitle": "What makes data open?",
+    "body": "<p>Open data is data that anyone can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. <strong>Open data must..</strong>.</p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c4f",
+    "_layout": "right",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbe",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer(s), then click 'Submit'",
+    "_items": [
+      {
+        "text": "be free from restrictions for its use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "be restricted in its use",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "be selectively released for a fee",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "have a licence",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "not have a licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Open data&nbsp;is&nbsp;<strong>data that anyone can access, use and share</strong>.</p><p>Open data must be licensed so that users know that they are allowed to use and share the data.</p><p>For anyone to use the data it must be free of restrictions for its use. If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as open data.<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure? </strong></p><p>Open data&nbsp;is&nbsp;<strong>data that anyone can access, use and share</strong>.</p><p>Open data must be licensed so that users know that they are allowed to use and share the data.</p><p>For anyone to use the data it must be free of restrictions for its use. If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as open data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Component title",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60d9a7fed0a9ce7fbf3a5c50",
+    "_layout": "left",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbe",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f0faf891530f3e29b3b8372e4d630eb54f3094b0.jpg",
+      "small": "course/en/assets/f0faf891530f3e29b3b8372e4d630eb54f3094b0.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/LNwIJHUtED4\" target=\"_blank\">Viktor Forgacs</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Component title",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60d9a7fed0a9ce7fbf3a5c51",
+    "_layout": "right",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbf",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/571102fe1e45cdd08e6e5590a6a536d943815e31.png",
+      "small": "course/en/assets/571102fe1e45cdd08e6e5590a6a536d943815e31.png",
+      "attribution": "<a href=\"https://www.opendatani.gov.uk/dataset/ni-water-customer-tap-authorised-supply-point-results/resource/f2bc12c1-4277-4db5-8bd3-b7bb027cc401\" target=\"_blank\">OpenDataNI</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What makes data open?",
+    "displayTitle": "What makes data open?",
+    "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness:</p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c52",
+    "_layout": "left",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbf",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Licence",
+        "body": "<p dir=\"ltr\">Open data must be free from restrictions and openly licensed. Its licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p><p dir=\"ltr\">For data to be open, it should have no restrictions that prevent it from being used in any particular way.</p><p dir=\"ltr\">Anyone should be free to use, modify, combine and share the data, even commercially.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Cost",
+        "body": "<p dir=\"ltr\">Government open data must be free to access. There is often a cost to creating, maintaining and publishing usable data which is already paid by the taxpayer.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reuse",
+        "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it – even commercially.</p><p>Open data is measured by what it can be used for, not by how it is made available.</p><p>Open data becomes usable when made available in a common, machine-readable format. Aspects like format, structure and machine readability all make data more usable, but these do not make the data more open.<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is data?",
+    "displayTitle": "What is data?",
+    "body": "<p>At the heart of open government is open data. First let us consider what we mean by data.</p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c53",
+    "_layout": "full",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bc0",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<p dir=\"ltr\">Data is the raw material from which information and knowledge can be applied. Data is often presented as figures in spreadsheets, though this isn’t the only format for data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Information",
+        "body": "<p dir=\"ltr\">Information is what happens when someone uses data to create a graph, chart or dashboard. Presenting information like this is useful to understand patterns or trends in data, but it doesn’t allow anyone to do their own analysis, or to check that what is being said is correct. If you create information from data, consider linking the data alongside if you can.</p><p dir=\"ltr\">A clear example of information without data is <a href=\"https://whereyourmoneygoes.gov.ie/\" target=\"_blank\">Where Your Money Goes</a>, a dashboard showing the Irish Government’s Expenditure data.&nbsp;It would be even more useful, if it included the data that powers the dashboard.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what happens when you turn data and information into choice, such as policy decisions that are based on data and information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Open by default",
+    "displayTitle": "Open by default",
+    "body": "<p dir=\"ltr\">Many governments are moving to an open by default agenda.</p><p dir=\"ltr\"><strong>What does open by default&nbsp;mean?</strong></p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c54",
+    "_layout": "full",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bc1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Data that is not legally or ethically sensitive should be automatically open",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "All data should be automatically available for anyone to use, including personal data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "If data is demanded over a petition with over 100,000 signatures then it must be made open",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Open by default&nbsp;is the principle that data should automatically be open for everyone to access, use and share unless there is a legal or ethical reason why it should remain closed.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure? </strong></p><p>Open by default&nbsp;is the principle that data should automatically be open for everyone to access, use and share unless there is a legal or ethical reason why it should remain closed.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Being open by default",
+    "displayTitle": "Being open by default",
+    "body": "<p dir=\"ltr\">Open by default&nbsp;is the principle that data should automatically be open for everyone to access, use and share unless there is a legal or ethical reason why it should remain closed. This principle is at the heart of an open government and the first principle of the <a href=\"https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex#principle-1-open-data-by-default\" target=\"_blank\">G8 Open Data Charter</a> and the <a href=\"https://www.finance-ni.gov.uk/publications/open-data-strategy-northern-ireland-2020-2023\" target=\"_blank\">Open Data Strategy for Northern Ireland</a>.</p><p dir=\"ltr\">This represents a complete mind change for many who currently take a demand-led approach to the publication of open data. That doesn’t mean that taking a demand-led approach is wrong, as success stories and examples of impact can help unlock budgets and gather buy-in for publishing more data openly. Think of it as a stepping stone on the way to an open by default&nbsp;agenda.</p><p dir=\"ltr\"><a href=\"https://open.canada.ca/en/about-open-by-default\" target=\"_blank\">The Canadian government is piloting an open by default&nbsp;approach</a><a href=\"https://open.canada.ca/en/about-open-by-default\" target=\"_blank\"> </a>to releasing public sector information in four of its departments. The pilot promotes the proactive release of scientific and cultural research data which supports government transparency and accountability.</p><p dir=\"ltr\">The Northern Ireland Executive is working to embed open data into ‘business as usual’ across the Northern Ireland Civil Service&nbsp;and the wider NI public sector.</p><ul></ul>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c55",
+    "_layout": "full",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bc2",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is the role of open data in an open government?",
+    "displayTitle": "What is the role of open data in an open government?",
+    "body": "<p dir=\"ltr\">Open data helps to deliver all the pillars of an open government.</p>",
+    "_id": "60d9a7fed0a9ce7fbf3a5c56",
+    "_layout": "full",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bc3",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Transparency",
+        "_ariaLevel": 0,
+        "body": "<p>Traditionally, the main purpose of the freedom of information legislation is to ensure transparency: the principle is that people have a right to know about the activities of public authorities, unless there is a good reason for them not to.</p><p>However, pro-active publication of open data has the potential to deliver much wider benefits and encourage better public engagement. It can both reduce the number of freedom of information requests and streamline the response to others.&nbsp;</p><p>In Carlisle, the publication of real-time business rates has reduced the number of freedom of information requests, saving the council up to £15,000 annually. Read the report here [PDF]: <a href=\"https://www.local.gov.uk/sites/default/files/documents/Carlisle%20Evaluation%202015-06-24%20final.pdf\" target=\"_blank\">Local Government Open Data Breakthrough Projects Evaluation Report 2014/15</a>.</p><p dir=\"ltr\">Open data can help make governments more transparent. It can provide evidence that public money is being well spent and policies are being implemented.</p><p dir=\"ltr\">For example, openly publishing procurement data ensures value for money, public integrity and helps track spending and service delivery. Openly publishing five more pieces of information about each contracting tender <a href=\"https://www.open-contracting.org/impact/evidence/#value\" target=\"_blank\">would save European governments up to €3.6 billion.</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/29627d3a06d8385dddf5564184c1c416a19d7723.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://static.pexels.com/photos/314829/pexels-photo-314829.jpeg\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Transparency"
+      },
+      {
+        "title": "Participation",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Open data allows people to see inside the workings of government, to monitor service delivery, hold government agencies to account and participate in decision making.</p><p dir=\"ltr\">The city of Gijón in Northern Spain has<a href=\"https://participa.gijon.es/\" target=\"_blank\"> Participa Gijón</a> (Participate in Gijón), a platform that people can use to engage with decision makers to negotiate, shape the development agenda and improve public service. New regulations, city plans and competitions are open for public debate. One of the biggest collaborative decisions made via Participa Gijón<strong>&nbsp;</strong>has been <a href=\"https://use.metropolis.org/case-studies/knowledge-society---citizen-participation-and-open-government-strategy#casestudydetail\" target=\"_blank\">how best to spend the city of Gijon’s 2017 €6 million participative budget</a>, and then the data is <a href=\"https://observa.gijon.es/explore/?refine.theme=Where+the+money+is+spent&amp;sort=modified\" target=\"_blank\">made open</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/db2f34d9b31788d0e4e6ce1178d32be5b6388ffe.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/31-pOduwZGE\" target=\"_blank\">mauro mora</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Participation"
+      },
+      {
+        "title": "Accountability",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">In 2016 the UK became the first country in the world to collect and publish, in a structured format,&nbsp;<a href=\"https://blog.opencorporates.com/2016/07/06/uk-beneficial-ownership-information-now-in-opencorporates/\" target=\"_blank\">data about who controls and benefits from companies</a>.</p><p dir=\"ltr\">Another way the UK government is making sure it can be held to account is by publishing open data on government grant spending. In October 2017, the government introduced a platform allowing departments to share information on £100 billion worth of grants data from across government departments using a <a href=\"https://www.threesixtygiving.org/support/standard/\" target=\"_blank\">standard format developed by 360Giving</a>.</p><p dir=\"ltr\">Making contracting and procurement more transparent can also have big impact. For example Paraguay is using open contracting to improve spending on education. Information about education contracts <a href=\"https://medium.com/open-contracting-stories/paraguays-transparency-alchemists-623c8e3c538f\" target=\"_blank\">unearthed a wider spending scandal</a> that triggered a formal investigation, public pressure and reform of school spending. You can read many more stories about open contracting data from the <a href=\"https://www.open-contracting.org/impact-stories/\" target=\"_blank\">Open Contracting Partnership</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d57101018c9563ac3d4dafbc10597ffae8c71d14.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/DZpc4UY8ZtY\" target=\"_blank\">Tingey Injury Law Firm</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Accountability"
+      },
+      {
+        "title": "Innovation",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Open data can help deliver new services to the public while driving efficiencies in the delivery of current public services.</p><p dir=\"ltr\">Many governments run open data innovation funds to work with developers and innovators to solve specific problems.</p><p dir=\"ltr\">Belfast City Council is reaping the benefits of running an open data innovation fund, thanks to the Small Business Research Initiative. Using the Food Standards Agency Rating ‘<a href=\"https://www.scoresonthedoors.org.uk/\" target=\"_blank\">Scores on the Doors</a>’ and <a href=\"https://www.gov.uk/government/organisations/companies-house\" target=\"_blank\">Companies House</a>, the council has been able to identify business premises that weren’t paying business rates, Rectifying this has given Belfast City Council an additional £500,000 in previously uncollected business rates in the pilot phase alone.</p>",
+        "_graphic": {
+          "src": "course/en/assets/52eb40b636463e780cd9ec9f63f3f19467c819d8.jpg",
+          "alt": "Innovation",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/multimedia-technology-background-art-concept-145267489\" target=\"_blank\">kentoh</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Innovation"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60d9a7fed0a9ce7fbf3a5c5e",
+    "_parentId": "60d9a7fdd0a9ce7fbf3a5bbc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/97098c8ee9de1fdf439f74e042a31ca87367d42d.jpeg",
+      "small": "course/en/assets/97098c8ee9de1fdf439f74e042a31ca87367d42d.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/brown-concrete-building-with-pillars-against-clear-skies-121732/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  }
+]

@@ -1,0 +1,753 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da497ed0a9ce7fbf3a5e63",
+    "_layout": "right",
+    "_parentId": "60da497dd0a9ce7fbf3a5de9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p dir=\"ltr\">Open data has the power to help drive innovation, transform societies and protect our planet.</p><p dir=\"ltr\">Open data can help governments grow economies, improve service delivery and save costs.</p><p>Open data can benefit society by reducing wasted time and money from travel times, business&nbsp;friction and excess spending.</p><p dir=\"ltr\">Open data can help save lives and help us better understand the world in which we live.</p><p dir=\"ltr\">Want more local examples of open data? You can find more stories on the <a href=\"https://www.opendatani.gov.uk/showcase\" target=\"_blank\">OpenDataNI Showcase</a> and <a href=\"https://data.nicva.org/datastories\" target=\"_blank\">Detail Data’s Data Stories</a>&nbsp;and follow <a href=\"https://twitter.com/opendatani?lang=en\" target=\"_blank\">@opendatani</a> on Twitter.</p><p dir=\"ltr\">Want to increase&nbsp;<a href=\"https://theodi.org/article/data-literacy-what-is-it-and-how-do-we-address-it-at-odi/\" target=\"_blank\">your data literacy?</a>&nbsp;Carry on with these modules.&nbsp;In the next module, we explore how to engage in an open data initiative.</p>",
+    "_id": "60da497ed0a9ce7fbf3a5e67",
+    "_layout": "left",
+    "_parentId": "60da497dd0a9ce7fbf3a5de9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Opportunities for government",
+    "displayTitle": "Opportunities for government",
+    "body": "<p dir=\"ltr\"><strong>Open data creates many opportunities for local and national governments. Which of the following are the benefits of open data for governments?</strong></p>",
+    "_id": "60da497ed0a9ce7fbf3a5e97",
+    "_layout": "full",
+    "_parentId": "60da497ed0a9ce7fbf3a5e04",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose an answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Building new services, while making existing services better",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Saving money and improving efficiency",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Increasing transparency and strengthening civic participation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Getting donations",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Open data helps governments to deliver new and improved services, be more efficient and save time and money,&nbsp;and increase transparency and civic participation.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data helps governments to deliver new and improved services, be more efficient and save time and money,&nbsp;and increase transparency and civic participation.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Opportunities for government",
+    "displayTitle": "Opportunities for government",
+    "body": "<p>The public sector benefits from open data initiatives in many ways:</p>",
+    "_id": "60da497ed0a9ce7fbf3a5e98",
+    "_layout": "full",
+    "_parentId": "60da497ed0a9ce7fbf3a5e05",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Supporting growing economies",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">To support the emergence of new data-driven businesses and the growth of existing ones, governments need to publish key datasets.</p><p>In 2019, the open data market size in the EU27 (excluding the UK) was worth nearly €185 billion, with over a million people employed as a result of open data. The UK’s open data market exceeded €30 billion, or £26 billion in the same year.</p><p>In 2025, the EU’s open data market size is predicted to grow to between €2 billion and €3.3 billion, with the creation of an additional 100<strong>–</strong>950 million jobs.</p><p dir=\"ltr\">Find out more about the <a href=\"https://www.europeandataportal.eu/sites/default/files/the-economic-impact-of-open-data.pdf\" target=\"_blank\">Economic Impact of Open Data</a><a href=\"https://data.europa.eu/sites/default/files/the-economic-impact-of-open-data.pdf\" target=\"_blank\">.</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/6c6024ce086d14203ddd6c946871180e78e34c95.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/j6NpUIniSI8\" target=\"_blank\">Rory McKeever</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Supporting growing economies"
+      },
+      {
+        "title": "Improved service delivery",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Governments need to balance the demands of growing populations with the need to tackle small-scale, local issues.</p><p dir=\"ltr\">The availability of detailed open data is essential to improving the delivery of services at the local level.</p><p dir=\"ltr\"><a href=\"https://www.fixmystreet.com/around?js=1&amp;zoom=0&amp;lat=54.60218&amp;lon=-5.95478\" target=\"_blank\">FixMyStreet</a> makes it easier for people to report problems in the community, even if they don’t know who to report the problems to.</p><p dir=\"ltr\">People in Leeds can get <a href=\"https://datamillnorth.org/products/leeds-bins/\" target=\"_blank\">weekly reminders of when their bins are due to be collected</a>. This is more convenient for people, and publishing this open data electronically instead of sending letters also saves the council approximately £100,000 per year. The council then uses open data about the use of the app to target communications about household waste.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d5df59b1b22cb613fb45dd49298286a0882d8f46.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/-ebp8HkKtrc\" target=\"_blank\">Artur Tumasjan</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Improved service delivery"
+      },
+      {
+        "title": "Cost savings",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Open data helps governments to reduce costs in key areas.</p><p dir=\"ltr\">Duplicate efforts cost governments millions. In 15 minutes, one UK government minister discovered <a href=\"https://opendatahandbook.org/value-stories/en/saving-4-million-pounds-in-15-minutes\" target=\"_blank\">how to save £4 million</a>, when open spending data allowed him to find duplicate transactions.</p><p dir=\"ltr\">In a similar story, open data identified&nbsp;<a href=\"https://data.nicva.org/article/patterns-prescribing-generic-switching\" target=\"_blank\">£194 million</a> of savings over 7 years in the Northern Ireland health service that could be made if GPs prescribed generic rather than branded medication.</p><p>Local councils are also saving costs. In Carlisle, publishing real-time business rates significantly reduced the number of Freedom of Information requests, improving the process for local businesses and <a href=\"https://www.local.gov.uk/sites/default/files/documents/Carlisle%20Evaluation%202015-06-24%20final.pdf\" target=\"_blank\">saving the council up to £15,000 per year</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3cad3e5048411fda99983e03fd2c9722d4c80385.jpg",
+          "alt": "",
+          "attribution": "<a href=\"Christopher Bill\" target=\"_blank\">Christopher Bill</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Cost savings"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Innovation and growth in businesses",
+    "displayTitle": "Innovation and growth in businesses",
+    "body": "<p dir=\"ltr\">Open data is supporting innovation and growth by revealing opportunities for businesses to build new services, identify savings and improve operations.</p><p dir=\"ltr\"><a href=\"https://spendnetwork.com/\" target=\"_blank\">SpendNetwork</a> pulls together open spending, contract and tender data to provide insight and consultancy services.</p><p dir=\"ltr\">GreenCitySolutions have built the CityTree&nbsp;<a href=\"https://greencitysolutions.de/en/products/citytree\" target=\"_blank\">which helps purify air from pollutants and adds greenery to urban areas.</a> The company uses open data to help assess the effectiveness and efficiency of their trees.</p><p dir=\"ltr\">Exceedance is an Irish startup that provides financial analytics softwares for customers to <a href=\"http://exceedence.com/monetising-metocean-data-an-open-data-project/\" target=\"_blank\">compare the cost and impact of renewable technologies and projects.&nbsp;</a></p><p>The <a href=\"https://opendataincubator.eu/companies/\" target=\"_blank\">Open Data Incubator for Europe</a> (ODINE) supports startups and small and medium-sized enterprises (SMEs) that build sustainable businesses around open data.</p><p dir=\"ltr\">Existing businesses can expand their offering thanks to data. <a href=\"https://www.zoopla.co.uk/\" target=\"_blank\">Real Estate company Zoopla</a> uses open mapping, transport and local area data to make it easy for potential buyers to compare properties and local areas. Credit score company&nbsp;Experian uses open data to <a href=\"https://www.experian.co.uk/blogs/latest-thinking/automated-credit-decisions/open-data-can-now-be-categorised\" target=\"_blank\">improve its affordability checks and assessments</a>.</p><p dir=\"ltr\">Open data stimulates innovation by removing barriers to access, use and shareability of data.</p>",
+    "_id": "60da497ed0a9ce7fbf3a5e99",
+    "_layout": "full",
+    "_parentId": "60da497ed0a9ce7fbf3a5e06",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Innovation and growth in businesses",
+    "displayTitle": "Innovation and growth in businesses",
+    "body": "<p dir=\"ltr\"><strong>Open data supports innovation and growth.&nbsp;Which of these are real services built on open data?</strong></p>",
+    "_id": "60da497ed0a9ce7fbf3a5e9a",
+    "_layout": "full",
+    "_parentId": "60da497ed0a9ce7fbf3a5e07",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose an answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Improving air quality in and around cities",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Providing business-to-business services built on open procurement data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Helping consumers buy into renewable energies",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>These are all real services that are built on open data. Read on to find out more about them.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>These are all real services that are built on open data. Read on to find out more about them.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Impact on society",
+    "displayTitle": "Impact on society",
+    "body": "<p dir=\"ltr\">Open data is unlocking new social value in the way we travel, work and spend money.</p><p dir=\"ltr\"><strong>Which of the following applications or services have you used?</strong></p>",
+    "_id": "60da497ed0a9ce7fbf3a5e9b",
+    "_layout": "full",
+    "_parentId": "60da497ed0a9ce7fbf3a5e08",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose all that you've used, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Mapping apps such as Google Maps ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Transport apps such as CityMapper or Translink Journey Planner",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Music apps such as Spotify",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Credit score companies like Experian",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Wikipedia",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 0,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\">Many apps and services are already using open data without advertising it to their customers. All the above applications and sites use open data to enrich their services and add value for their customers.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\">Many apps and services are already using open data without advertising it to their customers. All the above applications and sites use open data to enrich their services and add value for their customers.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Impact on society",
+    "displayTitle": "Impact on society",
+    "body": "<p dir=\"ltr\">You have already been using services that rely on open data for your benefit, think about what other benefits opening up government data could bring to people&nbsp;including yourself.</p>",
+    "_id": "60da497ed0a9ce7fbf3a5e9c",
+    "_layout": "left",
+    "_parentId": "60da497ed0a9ce7fbf3a5e09",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Reducing travel times",
+        "body": "<p dir=\"ltr\">Open data has the power to revolutionise the way we travel. From tech giants to startups across the world, open data is making it easier for people to travel from A to B.</p><p dir=\"ltr\">Google, Apple, Moovit, Citymapper and Wayze among others, all use open transport data on traffic, buses, trains, bike-sharing systems and more to save commuters time, make journeys more accessible and help tourists to travel in unfamiliar cities.</p><p dir=\"ltr\"><a href=\"http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf\" target=\"_blank\">Over 42% of Londoners use an app powered by Transport for London’s (TfL's) open data</a>. It’s estimated that TfL’s open data generates annual economic benefits and savings of up to £130 million for travellers, London and TfL itself.</p><p>Open data also helps with greener travel. In many cities, including Belfast, open data is helping cyclists to find the <a href=\"https://www.opendatani.gov.uk/showcase/bike-parking-belfast\" target=\"_blank\">nearest available bike stand</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reducing business friction",
+        "body": "<p dir=\"ltr\">Open data is changing the way we work.</p><p dir=\"ltr\">Open data reduces the time needed to find information and allows professionals to focus more of their time on productive activities.</p><p dir=\"ltr\"><a href=\"https://opencorporates.com/info/about\" target=\"_blank\">OpenCorporates</a>&nbsp;offers an open database of companies around the world, showing their networks, financial stability and environmental impact. This helps organisations learn more about prospective clients, providers and partners.</p><p>Thomson Reuters offers a variety of data services on finance, risk, information on companies and news stories. With data existing across a variety of services, Thomson Reuters turned to open data to link up their data services while avoiding complex rights issues in data. By <a href=\"https://innovation.thomsonreuters.com/en/labs/data-identifiers.html\" target=\"_blank\">openly publishing identifiers</a>, staff, clients and external organisations were able to connect, link and share vast amounts of business intelligence data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reducing spending waste",
+        "body": "<p dir=\"ltr\">Open data helps consumers to make more informed choices.</p><p dir=\"ltr\">In New South Wales, Australia, motorists can<a href=\"https://fuelcheck.nsw.gov.au/App/Home/About\" target=\"_blank\"> save up to 40 cents per gallon on fuel</a>, thanks to open data.</p><p dir=\"ltr\">Using <a href=\"https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner&amp;hl=en&amp;gl=US\" target=\"_blank\">Open Food Facts</a>, consumers worldwide can scan food product barcodes to compare the carbon footprints, nutritional value and recyclability of different products. Much like Wikipedia, anyone can add missing products to the database.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Benefiting culture and the environment",
+    "displayTitle": "Benefiting culture and the environment",
+    "body": "<p dir=\"ltr\">Open data is helping us make better decisions for our planet and the people on it.</p>",
+    "_id": "60da497ed0a9ce7fbf3a5e9d",
+    "_layout": "full",
+    "_parentId": "60da497ed0a9ce7fbf3a5e0a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Public health",
+        "_ariaLevel": 0,
+        "body": "<p>Open data can benefit the health and wellbeing of people across the planet.</p><p>Across England, open data is making it easier for people to get active by <a href=\"http://direct.sportengland.org/our-work/open-data/openactive-accelerators-the-10-startups/\" target=\"_blank\">finding details of physical activities happening in their area</a>.</p><p dir=\"ltr\">The Covid-19 pandemic has <a href=\"https://theodi.org/article/why-covid-19-means-data-sharing-is-more-important-than-ever/\" target=\"_blank\">highlighted the importance of&nbsp;being open with data</a>. Local and national governments&nbsp;<a href=\"https://theodi.org/article/covid-19-making-data-and-models-open-is-part-of-the-fight-against-it-governments-must-act-now/\" target=\"_blank\">publish and use open data</a> on the spread of Covid-19 to help track the cases, make targeted efforts to control the spread and inform policy decisions.</p><p dir=\"ltr\"><a href=\"https://coronavirus.data.gov.uk/\" target=\"_blank\">Take me to the UK’s Covid-19 dashboard</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/b94b7ebcedae2f41ba83b070f41b6c382d34f9ac.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/3wUhBmLfDws\" target=\"_blank\">Ryan Clark</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Public health"
+      },
+      {
+        "title": "The environment",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Open data benefits the environment in many ways.</p><p dir=\"ltr\">Open data-based applications can serve as a tool to help households reduce their energy consumption by providing them with reports and suggestions on how to decrease energy usage. In these reports, <a href=\"https://www.cse.org.uk/projects/view/1259\" target=\"_blank\">open aggregated energy consumption data</a>&nbsp;is combined with household energy data (which is not open).</p><p dir=\"ltr\">Open data is helping to reduce overfishing in our oceans. Over one third (34%) of the world’s major commercial fish species are currently overfished. <a href=\"https://globalfishingwatch.org/\" target=\"_blank\">Global Fishing Watch</a> tracks the location of commercial fishing vessels and works with governments to prosecute people engaging in illegal fishing activities.</p><p dir=\"ltr\">Open data helps farmers to improve yields and support a growing population without the need to destroy valuable habitats. <a href=\"https://www.plantwise.org/\" target=\"_blank\">Plantwise</a> is collecting open data to produce valuable information packs for farmers about plant health and threats from diseases.</p>",
+        "_graphic": {
+          "src": "course/en/assets/41d9f58a5efa3bd96c60dcb8b11d9a06beb5bf31.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/JR8XZ-gdZrA\" target=\"_blank\">Henry Be</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "The environment"
+      },
+      {
+        "title": "In an emergency",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Open data is helping to save lives in an emergency.</p><p dir=\"ltr\">Real time traffic data based on open data helps ambulances across Europe get to the incident faster. <a href=\"https://www.europeandataportal.eu/sites/default/files/the-economic-impact-of-open-data.pdf\" target=\"_blank\">Saving one&nbsp;minute per ride could save up to 100,000 lives per year.</a></p><p>Open geographic data and aid statistics are being used by humanitarian groups to deliver targeted supplies in disaster zones.</p><p dir=\"ltr\">Open mapping data helps disaster response teams target aid delivery during earthquakes, typhoons and hurricanes. The first major open mapping initiative from the Humanitarian OpenStreetMap Team was in response to the 2010 Haiti Earthquake, and <a href=\"https://tasks.hotosm.org/explore\" target=\"_blank\">open mapping data has been used for disaster relief ever since.</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/d8eba67c2ced17760da9e7bb3bc38598a0a7b2bc.png",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/4hWvAJP8ofM\" target=\"_blank\">Ian Taylor</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "In an emergency"
+      }
+    ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Unlocking value from open data – in three minutes",
+    "displayTitle": "Unlocking value from open data – in three minutes",
+    "body": "<p><a href=\"https://theodi.org/article/data-literacy-what-is-it-and-how-do-we-address-it-at-odi/\">Data literacy</a> is essential for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p><p>ODI Trainer Ben Cave examines how businesses and governments need to be data literate in order to unlock&nbsp; value from open data and the positive impacts this has on the economy, society and the environment.</p>",
+    "_id": "60da497ed0a9ce7fbf3a5ea6",
+    "_layout": "full",
+    "_parentId": "60da497ed0a9ce7fbf3a5e12",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129196639",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<blockquote><p><em>\"We need people who can work with data, drive the tools, write code and manipulate the data. But we also need people to be able to critique the use of data, understand its constraints and its impact on society. We need this blend of skills to get the best out of data.\"</em></p></blockquote><p dir=\"rtl\"><em>&nbsp;Dr Jeni Tennison, ODI Vice President – ODI Summit 2020</em></p>",
+    "_id": "60da497ed0a9ce7fbf3a5ea7",
+    "_parentId": "60da497ed0a9ce7fbf3a5e11",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Unlocking value from open data",
+    "displayTitle": "Unlocking value from open data",
+    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we’ll explore:</strong></p><ul><li>Opportunities for governments</li><li>Innovation and growth in businesses</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment</li><li>How data literacy can help unlock value</li></ul>",
+    "_id": "60da497ed0a9ce7fbf3a5ea8",
+    "_layout": "left",
+    "_parentId": "60da497ed0a9ce7fbf3a5e13",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da497ed0a9ce7fbf3a5ea9",
+    "_parentId": "60da497ed0a9ce7fbf3a5e09",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/326566ec4ff6a7d06a52389970b26d62e144d93d.jpg",
+      "small": "course/en/assets/326566ec4ff6a7d06a52389970b26d62e144d93d.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/computer-code-html-on-monitor-119236978\" target=\"_blank\">spaxiax</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "NI Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da497ed0a9ce7fbf3a5eaa",
+    "_parentId": "60da497ed0a9ce7fbf3a5e13",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  }
+]

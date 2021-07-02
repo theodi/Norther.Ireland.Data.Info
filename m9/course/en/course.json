@@ -1,0 +1,496 @@
+{
+  "title": "Choosing the right format for open data",
+  "displayTitle": "Choosing the right format for open data",
+  "body": "<p>The NICS is committed to becoming more open and transparent in part through implementing the aims and objectives of the Open Data Strategy for Northern Ireland 2020-23.&nbsp;</p><p>Developing a culture of greater openness and transparency begins with raising staff awareness of what terms such as open government and open data mean and what impact adopting these approaches will have for the NICS as a whole.</p>",
+  "subtitle": "",
+  "description": "",
+  "instruction": "",
+  "_htmlClasses": "",
+  "_latestTrackingId": 10,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_requireCompletionOf": -1,
+  "_lockType": "",
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources and search",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      }
+    },
+    "_extensions": {
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "<p>Developed for <a href=\"https://www.opendatani.gov.uk/\" target=\"_blank\">Open Data NI</a>&nbsp;by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "@opendatani",
+        "SL_vimeo": "",
+        "SL_youtube": ""
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
+      }
+    }
+  },
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "60da4b2bd0a9ce7fbf3a723a",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_global": {
+      "max-width": "1024px",
+      "device-width-small": "520px",
+      "device-width-medium": "720px",
+      "device-width-large": "900px",
+      "title-family": "'WPP Medium','Open Sans', Helvetica, Arial, sans-serif",
+      "body-family": "'WPP Light','Open Sans', Helvetica, Arial, sans-serif",
+      "btn-family": "'WPP Light','Open Sans', Helvetica, Arial, sans-serif",
+      "font-color": "#000000",
+      "font-color-inverted": "#ffffff",
+      "link": "",
+      "link-inverted": "",
+      "link-hover": "",
+      "link-inverted-hover": ""
+    },
+    "_themeLogo": {
+      "theme-logo": "course/assets/de3de54b1343168ad2897d52bae673ca1998bee2.png",
+      "theme-logo-top-padding": "0rem",
+      "theme-logo-width": "90%"
+    },
+    "_colors": {
+      "color-one": "rgba(0, 70, 124, 0.74)",
+      "color-one-inverted": "#ffffff",
+      "color-two": "rgba(46, 133, 64, 0.8)",
+      "color-two-inverted": "#ffffff",
+      "color-three": "rgba(46, 133, 64, 0.8)",
+      "color-three-inverted": "#ffffff",
+      "color-four": "rgba(0, 70, 124, 0.74)",
+      "color-four-inverted": "#ffffff",
+      "color-five": "rgba(46, 133, 64, 0.8)",
+      "color-five-inverted": "#ffffff",
+      "color-six": "rgba(0, 70, 124, 0.74)",
+      "color-six-inverted": "#ffffff",
+      "color-seven": "rgba(46, 133, 64, 0.8)",
+      "color-seven-inverted": "#ffffff",
+      "color-eight": "rgba(114, 114, 114, 0.89)",
+      "color-eight-inverted": "#ffffff",
+      "color-nine": "rgba(0, 70, 124, 0.74)",
+      "color-nine-inverted": "#ffffff",
+      "color-ten": "rgba(46, 133, 64, 0.8)",
+      "color-ten-inverted": "#ffffff"
+    },
+    "_items": {
+      "item-color": "#8cc63f",
+      "item-color-inverted": "#ffffff",
+      "item-color-hover": "",
+      "item-color-inverted-hover": "",
+      "item-color-selected": "",
+      "item-color-inverted-selected": "",
+      "visited": "#333333",
+      "visited-inverted": "#ffffff"
+    },
+    "_buttons": {
+      "btn-color": "#333333",
+      "btn-color-inverted": "#ffffff",
+      "btn-color-hover": "",
+      "btn-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
+      "validation-success": "#8cc63f",
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#d60303",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#333333",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#333333"
+    },
+    "_menu": {
+      "menu-item": "",
+      "menu-item-inverted": "",
+      "menu-item-border-color": "",
+      "menu-item-progress": "",
+      "menu-item-progress-inverted": "",
+      "menu-item-progress-border": "",
+      "menu-item-btn-color": "",
+      "menu-item-btn-color-inverted": "",
+      "menu-item-btn-color-hover": "",
+      "menu-item-btn-color-inverted-hover": ""
+    },
+    "_nav": {
+      "nav": "#ffffff",
+      "nav-inverted": "#ffffff",
+      "hide-nav": true,
+      "nav-icon": "#ffffff",
+      "nav-icon-inverted": "#9096a0",
+      "nav-icon-hover": "#ffffff",
+      "nav-icon-inverted-hover": "#333333",
+      "navigation-logo": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "nav-logo-height": "60px",
+      "nav-logo-height-mobile": "50px",
+      "nav-logo-padding-top": "5px",
+      "nav-logo-padding-top-mobile": "3px",
+      "nav-logo-padding-left": "5px",
+      "nav-logo-padding-left-mobile": "3px",
+      "nav-progress": "#8cc63f",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_footer": {
+      "footer": "#333333",
+      "footer-inverted": "#ffffff",
+      "footer-logo": "course/en/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
+    },
+    "_notify": {
+      "notify": "#333333",
+      "notify-inverted": "#ffffff",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#333333",
+      "drawer-inverted": "#ffffff",
+      "drawer-link": "",
+      "drawer-link-hover": "",
+      "drawer-icon": "",
+      "drawer-icon-inverted": "",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#333333",
+      "background-inverted": "#ffffff",
+      "shadow": "#333333",
+      "shadow-inverted": "#ffffff"
+    }
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy Notice",
+        "link": "https://www.opendatani.gov.uk/privacy_notice_reg"
+      }
+    ]
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "ODI Training Team",
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org/training_team\" target=\"_blank\"><span>Open Data Institute</span> training</a> team.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/f9855a4bc775449c566dabcd78c05fde759d0689.png"
+        }
+      },
+      {
+        "title": "OpenData NI",
+        "description": "<p>The NICS is committed to becoming more open and transparent in part through implementing the aims and objectives of the Open Data Strategy for Northern Ireland 2020-23.&nbsp;</p><p>Follow us on Twitter &nbsp;<a href=\"https://twitter.com/opendatani\">@opendatani</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/84d4e97867d8d6ac1431cde5ec5ca9a12f0936e6.png"
+        }
+      },
+      {
+        "title": "European Data Portal",
+        "description": "<p>Based upon content originally created by the <span><a href=\"https://www.europeandataportal.eu\" target=\"_blank\">European Data Portal</a></span></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/6674b6d19f88e77b508eaea51cc20c51c91e6fcf.png"
+        }
+      },
+      {
+        "title": "Adapt learning",
+        "description": "Open source learning platform developed by <span xmlns:cc=\"http://creativecommons.org/ns# property=\" cc:attributionname'=\"\"><a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a></span>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png"
+        }
+      }
+    ]
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "Open licence",
+        "description": "<p>NI open data essentials by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\" rel=\"license\">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/50253022ac8650bdccad84f4225f5100045c6da5.png"
+        }
+      },
+      {
+        "title": "Content usage",
+        "description": "<div class=\"drawer-item-description\"><div class=\"drawer-item-description-inner\">The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above.</div></div>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Exclusions",
+        "description": "<p>This license does not cover:</p><ul><li>Logos and trade marks belonging to the European Commission or Open Data Institute</li><li>Third party content (such as images)</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Non-endorsement",
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "No warranty",
+        "description": "<p>The Information is licensed 'as is'. The Open Data Institute&nbsp;is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": true,
+        "title": "Roads dataset",
+        "filename": "roads-dataset",
+        "description": "Human readable dataset about traffic on roads in the UK",
+        "_link": "course/en/assets/fa609fcefd15b4e3ee003c0a1d772b48d19b8ebe.xlsx"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": true,
+        "title": "Roads dataset (multisheet)",
+        "filename": "Roads dataset (multisheet)",
+        "description": "Roads dataset (multisheet)",
+        "_link": "course/en/assets/e26ccc4673ebbc6718ac403b2e7d6fbc9e447a50.xlsx"
+      }
+    ]
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_spoor": {
+    "_messages": ""
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "",
+      "_medium": "",
+      "_small": ""
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": null,
+      "_backgroundSize": null,
+      "_backgroundPosition": null
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
+  }
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Barriers to success",
+    "displayTitle": "Barriers to success",
+    "body": "<p dir=\"ltr\"><strong>Which of the following are common barriers to successful open data initiatives?</strong></p>",
+    "_id": "60da4a6ed0a9ce7fbf3a62e4",
+    "_layout": "full",
+    "_parentId": "60da4a6dd0a9ce7fbf3a626b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer(s), then click 'Submit'",
+    "_items": [
+      {
+        "text": "No data available to publish",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A fear of misusing data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A lack of willingness to share data with others",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "No suitable technology to make use of data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\"><strong>Cultural resistance</strong> and <strong>fear of data misuse</strong> are the most common barriers to achieving impact from data.</p><p dir=\"ltr\">Technology and data are never in short supply.</p><p dir=\"ltr\">The next&nbsp;section introduces the Open Data Institute's theory of change which looks at what needs to be done to overcome these barriers.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\"><strong>Cultural resistance</strong> and <strong>fear of data misuse</strong> are the most common barriers to achieving impact from data.</p><p dir=\"ltr\">Technology and data are never in short supply.</p><p dir=\"ltr\">The next&nbsp;section introduces the Open Data Institute's theory of change which looks at what needs to be done to overcome these barriers.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4a6ed0a9ce7fbf3a62e8",
+    "_layout": "right",
+    "_parentId": "60da4a6dd0a9ce7fbf3a6263",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Open data: agent of change. ",
+    "body": "<p dir=\"ltr\">Open data initiatives often require culture change, which can be hard work.</p><p dir=\"ltr\">Your open data initiative is much more likely to success if it:</p><ul><li>has strong, visible leadership</li><li dir=\"ltr\">actively engages with users</li><li dir=\"ltr\">considers where the demand is and focuses on that instead of publishing everything at once</li><li dir=\"ltr\">can help others overcome their inclination to hoard or fear data</li></ul><p dir=\"ltr\">then it is much more likely to succeed.</p><p dir=\"ltr\">Read more about the <a href=\"https://theodi.org/about-the-odi/our-vision-and-manifesto/our-theory-of-change/\" target=\"_blank\">Open Data Institute's theory of change</a> to create positive impact from data.</p><p dir=\"ltr\">Need help with your open data initiative? Find out who your departmental&nbsp;representative on the Open Government Action Group is, and get in touch for their support.</p><p dir=\"ltr\">In the next module, we'll look at simplifying open data licences.</p>",
+    "_id": "60da4a6ed0a9ce7fbf3a62e9",
+    "_layout": "left",
+    "_parentId": "60da4a6dd0a9ce7fbf3a6263",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Active engagement",
+    "displayTitle": "Active engagement",
+    "body": "<p dir=\"ltr\">Whilst active leadership delivers a 'push' from the organisation, active dialogue creates a 'pull' from data users. Engagement with civil society, business and governments are key aspects of any open data initiative.</p><p dir=\"ltr\">Successful initiatives tend to start with an open dialogue&nbsp;between open data publishers and consumers. Remember that consumers can also be within&nbsp;governments, sometimes from the same department.</p><p dir=\"ltr\">When thinking about what to publish, consider:</p>",
+    "_id": "60da4a6ed0a9ce7fbf3a631f",
+    "_layout": "full",
+    "_parentId": "60da4a6dd0a9ce7fbf3a628b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Your approach",
+        "body": "<p dir=\"ltr\">Some open data publishers take <strong>an open by default approach</strong>. Open by default is the first principle of&nbsp;<a href=\"https://www.finance-ni.gov.uk/publications/open-data-strategy-northern-ireland-2020-2023\" target=\"_blank\">the Open Data Strategy for Northern Ireland</a>&nbsp;and means that data should automatically be open for everyone to access, use and share unless there is a legal or ethical reason why it should remain closed.&nbsp;</p><p dir=\"ltr\">While the open by default approach provides the basis for making data open, where to start can often be overwhelming. For publishers at the beginning of their open data journey, starting to think about the needs of data consumers can help you shape your initiative accordingly. Responding to needs can generate quick success stories and examples of impact which can help to secure more support for publishing more open data.</p><p dir=\"ltr\"><strong>A staged approach</strong> helps to ensure that an organisation can walk before it tries to run, and achieves change in small, noticeable steps, rather than setting ambitious goals that are hard to meet.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who wants your data?",
+        "body": "<p dir=\"ltr\">It is often best to focus on demand that currently exists so that you can quickly generate lots of use cases. Use existing consumer dialogues, opinion surveys or ‘vox pops’ to see where the demand is, and follow it. Don’t forget that a lot of demand will come from within&nbsp;governments as well as outside.</p><p dir=\"ltr\">Think about problems that already exist and how the data relates to them. Frame the data as a tool to help build solutions.</p><p dir=\"ltr\">A successful open data initiative has an engaged community who actively use the data, with access to resources that support them. An example of a strong open data community is the <a href=\"https://www.nesta.org.uk/report/the-open-data-challenge-series-handbook/\" target=\"_blank\">Open Street Map project</a>. The community has a strong sense of ownership over the data itself and the outputs generated from it.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "How can you encourage reuse of data?",
+        "body": "<p dir=\"ltr\">Consider the channels that you have to engage with data users. Do you use social media or web presence? Are there events to celebrate data publication and reuse? Are there cross-government channels to encourage internal reuse?</p><p dir=\"ltr\">OpenDataNI includes discussion forums. Replying quickly to users’ questions and fostering an active community will encourage data reuse.</p><p dir=\"ltr\">Encourage reuses by promoting showcases and case studies around data. If you know of someone who is using open data from your department, encourage them to share it on <a href=\"https://www.opendatani.gov.uk/showcase\" target=\"_blank\">OpenDataNI’s Showcase</a> and share on social media.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " NI Logo",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4a6ed0a9ce7fbf3a6320",
+    "_layout": "right",
+    "_parentId": "60da4a6dd0a9ce7fbf3a628c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open data: agent of change",
+    "displayTitle": "Open data: agent of change",
+    "body": "<p>The most successful open data initiatives share similar characteristics. Understanding successful approaches can help unlock the value of open data.</p><p><strong>In this module we’ll explore:</strong></p><ul><li>Open data as an agent of change</li><li>Active leadership</li><li>Active engagement</li><li>Culture change</li></ul>",
+    "_id": "60da4a6ed0a9ce7fbf3a6321",
+    "_layout": "left",
+    "_parentId": "60da4a6dd0a9ce7fbf3a628c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Engaging in open data initiatives - in two minutes",
+    "displayTitle": "Engaging in open data initiatives - in two minutes",
+    "body": "<p>ODI International Development Manager Liz Carolan shares five characteristics of successful open data initiatives.</p>",
+    "_id": "60da4a6ed0a9ce7fbf3a6322",
+    "_layout": "full",
+    "_parentId": "60da4a6dd0a9ce7fbf3a628d",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129196638",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Open data as an agent of change",
+    "displayTitle": "Open data as an agent of change",
+    "body": "<p dir=\"ltr\">Implementing an open data initiative often involves cultural and institutional change.</p><p dir=\"ltr\">Opening data goes far beyond putting data on a website under an open licence. Applying the technology is the easy part – bringing about cultural change can be much harder.</p><p><strong>So what helps make an open data initiative successful?</strong></p>",
+    "_id": "60da4a6ed0a9ce7fbf3a6323",
+    "_layout": "full",
+    "_parentId": "60da4a6dd0a9ce7fbf3a628e",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer(s), then click 'Submit'",
+    "_items": [
+      {
+        "text": "Strong, active leadership",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Engaging with users",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Focus on cultural, not technical, change",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Focus on impact",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A staged approach",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Giving it all to the IT department to deal with",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 6,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Successful open data initiatives have <strong>strong leadership</strong> to help gather institutional buy-in. They <strong>identify where the demand is</strong> for open data and <strong>engage with the community</strong> at all stages. Successful open data initiatives <strong>focus on the impact</strong> they are trying to achieve, and <strong>use a staged approach</strong> rather than publish everything at once.</p><p>The technology is the easy part;&nbsp;it’s the cultural change that can be much harder.<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Successful open data initiatives have <strong>strong leadership</strong> to help gather institutional buy-in. They <strong>identify where the demand is</strong> for open data and <strong>engage with the community</strong> at all stages. Successful open data initiatives <strong>focus on the impact</strong> they are trying to achieve, and <strong>use a staged approach</strong> rather than publish everything at once.</p><p>The technology is the easy part;&nbsp;it’s the cultural change that can be much harder.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Active leadership",
+    "displayTitle": "Active leadership",
+    "body": "<p dir=\"ltr\">Active leadership helps foster successful open data initiatives and bring about positive change.</p><p dir=\"ltr\">As an open data programme is launched, it’s common to meet resistance from inside the organisation. Open data presents a huge cultural change for some, who may not feel ready for it.</p><p>Visible support from senior figures can help to encourage institutional buy-in. Having a strong leader who can clearly articulate their vision and lead by example goes a long way to encourage others to accept and sometimes embrace the change.</p>",
+    "_id": "60da4a6ed0a9ce7fbf3a6324",
+    "_parentId": "60da4a6dd0a9ce7fbf3a628f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common barriers: Hoarding data",
+    "displayTitle": "Common barriers: Hoarding data",
+    "body": "<p dir=\"ltr\">One of the biggest challenges to successful and impactful open data programmes is the lack of cultural willingness to share data. This scenario is known as ‘the oil field’.</p><p dir=\"ltr\">The oil field is a scenario where owning as much data as possible and keeping it in one place limits its value. It’s called the oil field, because data is treated like oil. Its value is only realised by a few organisations and there are side-effects from its use that affect society as a whole.</p><p dir=\"ltr\">Such approaches lead to a closed (or walled garden) environment which can greatly reduce innovation capabilities.</p><p dir=\"ltr\">To overcome this barrier, organisations should support an open culture as much as possible. During challenging times it is especially important to realise the benefits of working with others, sharing insights and innovating together.</p>",
+    "_id": "60da4a6ed0a9ce7fbf3a6325",
+    "_parentId": "60da4a6dd0a9ce7fbf3a6290",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4a6ed0a9ce7fbf3a632b",
+    "_parentId": "60da4a6dd0a9ce7fbf3a6290",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98f36d50dd7f90c64222c12bcb58e2ba5b126cb4.png",
+      "small": "course/en/assets/98f36d50dd7f90c64222c12bcb58e2ba5b126cb4.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Culture change",
+    "displayTitle": "Culture change",
+    "body": "<p dir=\"ltr\">Adopting open data will often mean that an organisation needs to change the way it operates.</p><p dir=\"ltr\">People driving initiatives need to spend time developing a shared vision, overcoming barriers and building coalitions for change.</p>",
+    "_id": "60da4a6ed0a9ce7fbf3a633b",
+    "_parentId": "60da4a6dd0a9ce7fbf3a629d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4a6ed0a9ce7fbf3a633c",
+    "_parentId": "60da4a6dd0a9ce7fbf3a629e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a35789ccc778fd791b6af032522d21382fe3bbe1.png",
+      "small": "course/en/assets/a35789ccc778fd791b6af032522d21382fe3bbe1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common barriers: Fearing data",
+    "displayTitle": "Common barriers: Fearing data",
+    "body": "<p dir=\"ltr\">If data is unused and unloved, it will degrade and could potentially lead to security risks, reputational and brand damage. This scenario is known as ‘the wasteland’.</p><p dir=\"ltr\">The wasteland is most prevalent in situations where unaddressed fears arising from legitimate concerns – such as who has access to data and how it might be used – prevent any benefits being realised.</p><p dir=\"ltr\">Data might not be collected or used to the extent it could be. Individuals withdrawing consent could lead to data that is biased and misleading.</p><p dir=\"ltr\">Putting in place practices that ensure the way data is collected and used is trustworthy can help to alleviate fears.</p>",
+    "_id": "60da4a6ed0a9ce7fbf3a633d",
+    "_parentId": "60da4a6dd0a9ce7fbf3a629e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Such practices include:",
+        "body": "<p dir=\"ltr\">Building in ethical considerations to data collection, management and use.</p><p dir=\"ltr\">Making data open so anyone can access, use and benefit from data.</p><p dir=\"ltr\">Engaging widely with people and organisations who are affected.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4a6ed0a9ce7fbf3a633e",
+    "_parentId": "60da4a6dd0a9ce7fbf3a628f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3b466d2d795b722c7bd238fd96e41dd3d1bec286.jpg",
+      "small": "course/en/assets/3b466d2d795b722c7bd238fd96e41dd3d1bec286.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/top-view-photo-of-people-near-wooden-table-3183150/\" target=\"_blank\">fauxels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  }
+]

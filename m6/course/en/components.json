@@ -1,0 +1,834 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Comparing and measuring success",
+    "body": "<p dir=\"ltr\">When comparing and measuring open data initiatives, it is important to use a broad framework and focus on demand.</p><p dir=\"ltr\">These methods help your initiative to stay on track and emulate the success of other open data initiatives.</p><p dir=\"ltr\">KPIs also help drive the changes that organisations require to participate effectively in the open data community.</p><p dir=\"ltr\">In the next module, we explore how to find sustainable sources of open data.</p>",
+    "_id": "60da4ae7d0a9ce7fbf3a69ef",
+    "_layout": "left",
+    "_parentId": "60da4ae6d0a9ce7fbf3a6966",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Our measures of success",
+    "displayTitle": "Our measures of success",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a69f7",
+    "_layout": "full",
+    "_parentId": "60da4ae6d0a9ce7fbf3a6975",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow for more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Activity on OpenDataNI",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">We will have succeeded when we can demonstrate sustained increase in the quantity of open data available on the portal. Having data available is essential for our open data strategy and links directly to the Barometer’s <strong>implementation</strong> indicator.</p><p>Another measure of success is a wide range of use cases in our Showcase. This is to demonstrate what impact we are having.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6ef51631c6fd4a6d60fe4ee335d3a0cf9fc592a3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/f5pTwLHCsAg\" target=\"_blank\">Lewis Kang'ethe Ngugi</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Activity on OpenDataNI"
+      },
+      {
+        "title": "Culture change across NI gov and NICS",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">We will have succeeded&nbsp;when we have a culture of proactive publishing across the Northern Irish Civil Service and that we have embedded an ‘Open by Default’ agenda.</p><p dir=\"ltr\">When internal staff can articulate the benefits and potential of open data, we know that we will have succeeded.</p><p dir=\"ltr\">Both of these success measures link to the Barometer’s <strong>readiness</strong> indicator.</p>",
+        "_graphic": {
+          "src": "course/en/assets/c7201b4cd605ff2462b9f90dc5eb978a23222cd3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/marketing-businessman-person-hands-6802052/\" target=\"_blank\">Anna Nekrashevich</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Culture change"
+      },
+      {
+        "title": "Automated processes",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">We will have succeeded when we have data validation tools to ensure better quality data. Using these tools will be simple and quick, where a machine does most of the work to improve the accuracy, consistency and cleanliness of the data.</p><p dir=\"ltr\">In addition, we will have succeeded when we are able to use automated publication pipelines, meaning that the process is quick and efficient for staff, while ensuring the timely publication of open data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b78107e2faea3fc5a1a4b7865928037a38cbf0ce.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/close-up-view-of-plasma-256302/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Automated processes"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a69fa",
+    "_layout": "right",
+    "_parentId": "60da4ae6d0a9ce7fbf3a6966",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Our meeasures of success",
+    "displayTitle": "Key success measures",
+    "body": "<p><strong>Which of the following are some of the key success measures of the&nbsp;Open Data Strategy for Northern Ireland?</strong></p>",
+    "_id": "60da4ae7d0a9ce7fbf3a6a4e",
+    "_layout": "left",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69a8",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Sustained increase in open data and use cases on the portal",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A wide variety of use cases",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A culture of proactive publishing",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "300,000 datasets published on the portal",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increased numbers of freedom of information requests",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">In the Open Data Strategy for Northern Ireland, we list the following as our measures for success:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Sustained increase in open data on the portal</p></li><li dir=\"ltr\"><p dir=\"ltr\">Wide variety of use cases</p></li><li dir=\"ltr\"><p dir=\"ltr\">A culture of proactive publishing</p></li><li dir=\"ltr\"><p dir=\"ltr\">Automated publication pipelines successfully used</p></li><li dir=\"ltr\"><p dir=\"ltr\">Development of data validation tools to ensure better quality data</p></li><li dir=\"ltr\"><p dir=\"ltr\">Raised awareness of open data’s potential.</p></li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>In the Open Data Strategy for Northern Ireland, we list the following as our measures for success:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Sustained increase in open data on the portal</p></li><li dir=\"ltr\"><p dir=\"ltr\">Wide variety of use cases</p></li><li dir=\"ltr\"><p dir=\"ltr\">A culture of proactive publishing</p></li><li dir=\"ltr\"><p dir=\"ltr\">Automated publication pipelines successfully used</p></li><li dir=\"ltr\"><p dir=\"ltr\">Development of data validation tools to ensure better quality data</p></li><li dir=\"ltr\"><p dir=\"ltr\">Raised awareness of open data’s potential.</p></li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a6a4f",
+    "_layout": "right",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69a8",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fac5a8d7405510f6d92b345fcd7288cf9f5c0761.jpg",
+      "small": "course/en/assets/fac5a8d7405510f6d92b345fcd7288cf9f5c0761.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/person-holding-pen-pointing-at-graph-590020/\" target=\"_blank\">Lukas</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Keeping on track",
+    "displayTitle": "Keeping on track",
+    "body": "<p>How do Key Performance Indicators (KPIs) help measure the success of an initiative?</p><p><strong>KPIs can help to...</strong></p>",
+    "_id": "60da4ae7d0a9ce7fbf3a6a50",
+    "_layout": "left",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69a9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select an option, then click 'Submit'",
+    "_items": [
+      {
+        "text": "the initiative stay on track",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "identify and communicate successes and areas to improve",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "be ‘open by default’",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "identify who needs a promotion",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p dir=\"ltr\">KPIs can help initiatives to stay on track as well as identifying and communicating what’s going well, and areas for improvement.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>KPIs can help initiatives to stay on track as well as identifying and communicating what’s going well, and areas for improvement.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a6a51",
+    "_layout": "right",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69a9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2b5ec4242610756a70a3b5e12afaf1626f3f0d02.jpg",
+      "small": "course/en/assets/2b5ec4242610756a70a3b5e12afaf1626f3f0d02.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-kpi-174926546\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " NI-Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a6a52",
+    "_layout": "right",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69aa",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Measuring success for open data",
+    "displayTitle": "Measuring success for open data",
+    "body": "<p>Successful open data initiatives do more than simply put data on the web. The most data-savvy organisations also put in place frameworks and policies to support and incentivise innovation. Open data communities need to be built and success stories communicated. Together, these will help more people understand the benefits of open data.</p><p><strong>In this module we’ll explore:</strong></p><ul><li dir=\"ltr\">Measuring success</li><li dir=\"ltr\">Keeping on track</li><li dir=\"ltr\">Our measures of success</li></ul>",
+    "_id": "60da4ae7d0a9ce7fbf3a6a53",
+    "_layout": "left",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69aa",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Comparing open data initiatives - in two minutes",
+    "displayTitle": "Comparing open data initiatives - in two minutes",
+    "body": "<p>ODI International Development Manager Liz Carolan explains key ways to measure the success of open data initiatives, what a demand-focused approach to open data is and how performance indicators add value to open data initiatives.</p>",
+    "_id": "60da4ae7d0a9ce7fbf3a6a54",
+    "_layout": "full",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69ab",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129197044",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Success criteria",
+    "displayTitle": "Success criteria",
+    "body": "<p><strong>What criteria could you use to measure the success of an open data initiative?</strong></p>",
+    "_id": "60da4ae7d0a9ce7fbf3a6a55",
+    "_layout": "left",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69ac",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select an option, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Readiness to support open data initiatives",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "How many key datasets are already being published openly",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "What tangible benefits open data is already creating",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Number of visits to the open data portal",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p dir=\"ltr\">The three&nbsp;key criteria for comparing and measuring successful open data initiatives are:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">The readiness to support and open data initiative</p></li><li dir=\"ltr\"><p dir=\"ltr\">How many key datasets are already being published openly</p></li><li dir=\"ltr\"><p dir=\"ltr\">The tangible benefits open data is already creating</p></li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">The three&nbsp;key criteria for comparing and measuring successful open data initiatives are:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">The readiness to support and open data initiative</p></li><li dir=\"ltr\"><p dir=\"ltr\">How many key datasets are already being published openly</p></li><li dir=\"ltr\"><p dir=\"ltr\">The tangible benefits open data is already creating</p></li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a6a56",
+    "_layout": "right",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69ac",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/77b6c900a7b586de15c714767c7724204fe6bef9.jpg",
+      "small": "course/en/assets/77b6c900a7b586de15c714767c7724204fe6bef9.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/kwzWjTnDPLk\" target=\"_blank\">Lagos Techie</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Measuring success",
+    "displayTitle": "Measuring success",
+    "body": "<p dir=\"ltr\">When evaluating the success of an open data initiative, it is important to look beyond the quantity of data published and focus on demand for the data.</p><p dir=\"ltr\">The <a href=\"https://opendatabarometer.org/\" target=\"_blank\">Open Data Barometer</a> provides a global measure for comparing countries' progress. It uses three key indicators: readiness, implementation and impact.</p><p dir=\"ltr\">While the Open Data Barometer has not been updated for a few years, its methodology is still the best in class for comparing countries’ progress on open data. As the <a href=\"https://docs.google.com/document/d/1JklH_smk1Fxl5-5Ac0gJeN7o6dUnFKIDimxXtGimDdc/edit#\" target=\"_blank\">methodology is open</a>, anyone is able to replicate the research.</p>",
+    "_id": "60da4ae7d0a9ce7fbf3a6a57",
+    "_layout": "left",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69ad",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Open data readiness",
+        "body": "<p dir=\"ltr\">To what extent is an organisation or country ready to support an open data initiative?</p><p dir=\"ltr\">The following are important indicators of readiness to support an open data initiative.</p><ul><li dir=\"ltr\">Open licences supported</li><li dir=\"ltr\">Policies and procedures established</li><li dir=\"ltr\">Investments made</li><li dir=\"ltr\">Educational support available</li><li dir=\"ltr\">Wider engagement undertaken</li></ul><p dir=\"ltr\">The <a href=\"https://www.finance-ni.gov.uk/sites/default/files/publications/dfp/Open%20Data%20Strategy%20for%20NI%202020-23.pdf\" target=\"_blank\">Open Data Strategy for Northern Ireland</a> and the <a href=\"https://www.opengovernment.org.uk/resource/2019-21-uk-open-government-national-action-plan-northern-ireland-commitments/\" target=\"_blank\">National Action Plan</a> are clear policies that demonstrate support and investment in our open data initiative.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data implementation",
+        "body": "<p>Data is now as important to our national infrastructure as roads or internet access. For public bodies and governments, there are certain datasets that should be open as a way to support innovation, generate value and grow the economy.</p>The key datasets identified in the Open Data Barometer include:<ul><li dir=\"ltr\">Mapping and land ownership data</li><li dir=\"ltr\">National statistics</li><li dir=\"ltr\">Budget, government spending, international trade and public contracting data</li><li dir=\"ltr\">Company registration data</li><li dir=\"ltr\">Health, education, crime and environmental statistics</li><li dir=\"ltr\">Election results</li></ul>You can explore which key datasets Northern Ireland has published by searching by category on <a href=\"https://www.opendatani.gov.uk/\" target=\"_blank\">OpenDataNI</a>.</p><p dir=\"ltr\">In Northern Ireland, some property and land datasets are open, but unlike in the rest of the UK, land ownership remains held by the Land and Property Services.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data impact",
+        "body": "<p dir=\"ltr\">Without evidence of impact, communities are less likely to grow around the data and innovation can be less widespread. The following are important indicators of impact:</p><ul><li dir=\"ltr\">Increasing efficiency and transparency of government</li><li dir=\"ltr\">Economic growth driven by open data</li><li dir=\"ltr\">Social and environmental benefits</li></ul><p>On OpenDataNI, you can explore the <a href=\"https://www.opendatani.gov.uk/showcase\" target=\"_blank\">Showcase stories</a> which highlight where our open data has already been used. One of the aims of the Open Data Strategy for Northern Ireland is to expand the number of stories available. These case studies are low risk and often quick and inexpensive, while&nbsp;providing life changing services for some.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a6a58",
+    "_layout": "right",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69ad",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fac5a8d7405510f6d92b345fcd7288cf9f5c0761.jpg",
+      "small": "course/en/assets/fac5a8d7405510f6d92b345fcd7288cf9f5c0761.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Using Key Performance Indicators",
+    "displayTitle": "Using Key Performance Indicators",
+    "body": "<p dir=\"ltr\">Key Performance Indicators (KPIs) help keep open data initiatives on track.</p>",
+    "_id": "60da4ae7d0a9ce7fbf3a6a59",
+    "_layout": "left",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69ae",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Managing progress",
+        "body": "<p dir=\"ltr\">KPIs help to manage the process of open data initiatives.</p><p dir=\"ltr\">KPIs should be set to measure open data readiness, implementation and impact.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Communicate successes",
+        "body": "<p dir=\"ltr\">KPIs can help to communicate the progress and the success of your open data initiative. Promoting where you have had an impact, and how you have met your targets helps to demonstrate that you are delivering value with your initiative.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Staying user-focused",
+        "body": "<p dir=\"ltr\">The most successful open data initiatives focus on all Key Performance Indicators (KPIs) at the same time.</p><p dir=\"ltr\">Successful initiatives focus on users first to build communities, educate and streamline supply so that even imperfect open data can get into the hands of users quickly, to maximise its value.</p><p dir=\"ltr\">Number driven targets, such as publishing a certain amount of datasets, regardless of quality or demand from users, won’t necessarily help to make an impact.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ae7d0a9ce7fbf3a6a5a",
+    "_layout": "right",
+    "_parentId": "60da4ae6d0a9ce7fbf3a69ae",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bbab87cbc66e5f301ed99ab29c3881c45784daed.jpg",
+      "small": "course/en/assets/bbab87cbc66e5f301ed99ab29c3881c45784daed.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/kwzWjTnDPLk \" target=\"_blank\">Lagos Techie</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Choosing the right structure and format for open data",
+    "displayTitle": "Choosing the right structure and format for open data",
+    "body": "<p>The format&nbsp;of an open dataset refers to the way in which the data is structured and made available for humans and machines.</p><p>Choosing the right format helps ensure the data can be simply managed and reused. To maximise reuse of data, it may be necessary for a publisher to use a number of structures and formats available across different platforms to suit users' needs.</p><p><strong>In this module we'll explore:</strong></p><ul><li>Why the structure and format matters</li><li>Tabular data structures and formats</li><li>Machine readable tabular data</li><li>Other data structures and formats</li></ul>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60da4b2bd0a9ce7fbf3a723a",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

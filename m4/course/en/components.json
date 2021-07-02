@@ -1,0 +1,1088 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Licences and third parties",
+    "displayTitle": "Licences and third parties",
+    "body": "<p dir=\"ltr\"><strong>What should you do to ensure data collected by third parties under contract can be made open?</strong></p>",
+    "_id": "60da4aa0d0a9ce7fbf3a6563",
+    "_layout": "left",
+    "_parentId": "60da4a9fd0a9ce7fbf3a64eb",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Make sure that it is included as part of the contract",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Not worry about it, as the third parties will handle that",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Leave it to the legal department to sort out",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">To ensure that data collected by third parties can be made open, you need to make sure that it is included in the contract along with any terms that the government has about collecting, managing and storing that data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>To ensure that data collected by third parties can be made open, you need to make sure that it is included in the contract along with any terms that the government has about collecting, managing and storing that data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4aa0d0a9ce7fbf3a656b",
+    "_layout": "right",
+    "_parentId": "60da4a9fd0a9ce7fbf3a64e5",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Open data licences. Simple.",
+    "body": "<p dir=\"ltr\">For data to be open, it should be licensed for anyone to access, use and share. Licensing gives permission to businesses, startups, governments and individuals to innovate with your open data.&nbsp;</p><p dir=\"ltr\">People working for Crown bodies in the UK are mandated to use the <a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">OGL</a> when publishing open data. <a href=\"https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/\" target=\"_blank\">UK Government Licensing Framework</a> is a resource to start using the OGL.</p><p dir=\"ltr\">Open data licensing should be provided for in the tendering, procurement and contracting lifecycle.</p><p>In the next module, we assess open data quality and look at how easy it is to prepare data for users to use.</p>",
+    "_id": "60da4aa0d0a9ce7fbf3a6583",
+    "_layout": "left",
+    "_parentId": "60da4a9fd0a9ce7fbf3a64e5",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Component title",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4aa0d0a9ce7fbf3a6584",
+    "_layout": "right",
+    "_parentId": "60da4a9fd0a9ce7fbf3a64eb",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/31dc725ebc84b55bdc068a5771093182015dd6d7.jpg",
+      "small": "course/en/assets/31dc725ebc84b55bdc068a5771093182015dd6d7.jpg",
+      "attribution": "<a href=\"https://pixabay.com/photos/business-signature-contract-962354/\" target=\"_blank\">Edar</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4aa0d0a9ce7fbf3a65ad",
+    "_layout": "right",
+    "_parentId": "60da4a9fd0a9ce7fbf3a6516",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3fb7cde59db7d6f5f724e750976b04156b829422.png",
+      "small": "course/en/assets/3fb7cde59db7d6f5f724e750976b04156b829422.png",
+      "attribution": "<a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">National Archives</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Open Government Licence (OGL)",
+    "displayTitle": "The Open Government Licence (OGL)",
+    "body": "<p dir=\"ltr\">The UK Government uses the Open Government Licence (OGL). It is mandatory for Crown bodies and recommended for use by other public sector bodies.</p><p dir=\"ltr\">The UK’s open data portal, <a href=\"https://data.gov.uk/\" target=\"_blank\">data.gov.uk</a>, and Northern Ireland’s open data portal, <a href=\"https://www.opendatani.gov.uk/\" target=\"_blank\">OpenDataNI</a>, use the OGL.</p><p dir=\"ltr\"><a href=\"https://www.opendatani.gov.uk/dataset/doj-performance-statistics-assembly-written-questions\" target=\"_blank\">This&nbsp;example from Open Data NI </a>clearly shows the licence on the left&nbsp;side, where the dataset is accessed. The licence information is a hyperlink that displays the licence in full.</p><p dir=\"ltr\">You may also find the <a href=\"https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/\" target=\"_blank\">UK Government Licensing Framework useful</a>.&nbsp;It provides a policy and legal overview for licensing in the UK public sector.&nbsp;</p><p>&nbsp;</p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65ae",
+    "_layout": "left",
+    "_parentId": "60da4a9fd0a9ce7fbf3a6516",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "NI Logo ",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4aa0d0a9ce7fbf3a65af",
+    "_layout": "right",
+    "_parentId": "60da4a9fd0a9ce7fbf3a6517",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why do we need to license?",
+    "displayTitle": "Why do we need to license?",
+    "body": "<p dir=\"ltr\">For&nbsp;data to be open, it should be accessible (this usually means being published online) and licensed for anyone to access, use and share.</p><p dir=\"ltr\"><strong>In this module we'll explore:</strong></p><ul><li dir=\"ltr\">Why open data needs to be licensed</li><li dir=\"ltr\">What type of licence suits open data</li><li dir=\"ltr\">How to provide for open data licensing in the tender, procurement and contracting lifecycle</li></ul><p dir=\"ltr\">Even in cases where data has been made available as a public domain dedication without conditions on reuse, an explicit statement is required together with the data to provide users with legal clarity.</p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b0",
+    "_layout": "left",
+    "_parentId": "60da4a9fd0a9ce7fbf3a6517",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Simplifying open data licences – in two minutes",
+    "displayTitle": "Simplifying open data licences – in two minutes",
+    "body": "<p>ODI Policy Lead Ellen Broad explains why we need open data licences, how they help unlock the value of data and best practice in choosing the right type of licence.</p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b1",
+    "_layout": "full",
+    "_parentId": "60da4a9fd0a9ce7fbf3a6518",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129116798",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What do we need to license?",
+    "displayTitle": "Why do we need to license?",
+    "body": "<p dir=\"ltr\"><strong>Why does open data need to have a licence?</strong></p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b2",
+    "_layout": "full",
+    "_parentId": "60da4a9fd0a9ce7fbf3a6519",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": " Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Data without a licence is not open",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Users may prefer not to use the data as they don’t know if there are any restrictions in its use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data without a licence might be subject to copyright",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Users know who to pay for its use",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data without a licence can’t be charged for",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Without a licence, data is not truly open.</p><p dir=\"ltr\">A licence tells anyone that they can access, use and share data.</p><p dir=\"ltr\">Unless you have a licence, data may be ‘publicly available', but users will not have permission to access, use and share it under copyright or database laws.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">Without a licence, data is not truly open.</p><p dir=\"ltr\">A licence tells anyone that they can access, use and share data.</p><p dir=\"ltr\">Unless you have a licence, data may be ‘publicly available', but users will not have permission to access, use and share it under copyright or database laws.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why license open data?",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">An open data licence&nbsp;provides users with certainty that the data can be used and shared for a wide range of purposes, including for commercial purposes.</p><p dir=\"ltr\"><strong>Without a licence, data is not truly open.</strong></p><p dir=\"ltr\">A licence tells <strong>anyone that they can access, use and share data.</strong></p><p dir=\"ltr\">Unless you have a licence, data may be ‘publicly available’, but users will not have permission to access, use and share it under copyright or database laws.</p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b3",
+    "_layout": "full",
+    "_parentId": "60da4a9fd0a9ce7fbf3a651a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Understanding the OGL",
+    "displayTitle": "Understanding the OGL",
+    "body": "<p dir=\"ltr\"><strong>See if you can sort the following conditions into the three boxes to replicate the OGL.</strong></p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b4",
+    "_parentId": "60da4a9fd0a9ce7fbf3a6515",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Attribute the data provider",
+        "_options": [
+          {
+            "text": "You can",
+            "_isCorrect": false
+          },
+          {
+            "text": "You must",
+            "_isCorrect": true
+          },
+          {
+            "text": "You can't",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Use for commercial purposes",
+        "_options": [
+          {
+            "text": "You can",
+            "_isCorrect": true
+          },
+          {
+            "text": "You must",
+            "_isCorrect": false
+          },
+          {
+            "text": "You can't",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Use for non commercial purposes",
+        "_options": [
+          {
+            "text": "You can",
+            "_isCorrect": true
+          },
+          {
+            "text": "You must",
+            "_isCorrect": false
+          },
+          {
+            "text": "You can't",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Claim endorsement for the work",
+        "_options": [
+          {
+            "text": "You can",
+            "_isCorrect": false
+          },
+          {
+            "text": "You must",
+            "_isCorrect": false
+          },
+          {
+            "text": "You can't",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Adapt the data",
+        "_options": [
+          {
+            "text": "You can",
+            "_isCorrect": true
+          },
+          {
+            "text": "You must",
+            "_isCorrect": false
+          },
+          {
+            "text": "You can't",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p>The Open Government Licence provides users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes, even commercially.</p><p>Those who use data licensed under the OGL must attribute the data provider.</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p>The Open Government Licence provides users with certainty that the data can be accessed, used, modified and shared for a wide range of purposes, even commercially.</p><p>Those who use data licensed under the OGL must attribute the data provider.</p><p>A data user cannot claim ownership, endorsement or any damages from the data publisher that result from their use or analysis of the data, regardless of the quality of the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4aa0d0a9ce7fbf3a65b5",
+    "_layout": "left",
+    "_parentId": "60da4a9fd0a9ce7fbf3a651b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3fb7cde59db7d6f5f724e750976b04156b829422.png",
+      "small": "course/en/assets/3fb7cde59db7d6f5f724e750976b04156b829422.png",
+      "attribution": "<a href=\"http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/\" target=\"_blank\">National Archives</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Understanding the OGL",
+    "displayTitle": "Understanding the OGL",
+    "body": "<p>The best licences are easy to understand, compatible with widely used licences and easy to comply with.&nbsp;The OGL was designed in this way.</p><p>The best licences also make it clear:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">what users <strong>can do </strong>with the data</p></li><li dir=\"ltr\"><p dir=\"ltr\">what the users <strong>must do</strong> if they use the data</p></li><li dir=\"ltr\"><p dir=\"ltr\">what (if anything) the users <strong>can’t do </strong>with the data</p></li></ul>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b6",
+    "_layout": "right",
+    "_parentId": "60da4a9fd0a9ce7fbf3a651b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Other open licences",
+    "displayTitle": "Other open licences",
+    "body": "<p dir=\"ltr\">In the UK, the OGL is mandatory for Crown bodies and recommended for use by other public sector bodies.</p><p dir=\"ltr\">However, there are other types of licences, which you may come across when looking for data to access, use or share.&nbsp;</p><p><strong>What licence does <a href=\"https://data.gov.ie/\" target=\"_blank\">Ireland’s open data portal</a> use?</strong></p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b7",
+    "_layout": "left",
+    "_parentId": "60da4a9fd0a9ce7fbf3a651c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Creative Commons Attribution",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Creative Commons Attribution & Share Alike",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The UK Open Government Licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Its own bespoke licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\"><a href=\"https://data.gov.ie/\" target=\"_blank\">Data.gov.ie</a> uses the Creative Commons Attribution (CC-BY 4.0), which is one of the most widely used licences for open content. CC-BY 4.0 is equivalent and compatible with the UK OGL. This means you can remix and combine data available under both licences without risk of legal issues relating to incompatible licences.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p><a href=\"https://data.gov.ie/\" target=\"_blank\">Data.gov.ie</a> uses the Creative Commons Attribution (CC-BY 4.0), which is one of the most widely used licences for open content. CC-BY 4.0 is equivalent and compatible with the UK OGL. This means you can remix and combine data available under both licences without risk of legal issues relating to incompatible licences.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Component title",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4aa0d0a9ce7fbf3a65b8",
+    "_layout": "right",
+    "_parentId": "60da4a9fd0a9ce7fbf3a651c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/64829574aa4b26639b7bd532ca47a73e4350c756.jpeg",
+      "small": "course/en/assets/64829574aa4b26639b7bd532ca47a73e4350c756.jpeg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/access-granted-internet-login-238197199?src=id\" target=\"_blank\">Brian Senic</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Creative Commons licences",
+    "displayTitle": "Creative Commons licences",
+    "body": "<p dir=\"ltr\">Creative Commons marks and licences are widely used for open content. Version 4.0 explicitly considers data licensing. You can choose a licence (or mark) that works for you at the Creative Commons website.&nbsp;</p><p dir=\"ltr\">There are three Creative Commons marks and licences that are open:</p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65b9",
+    "_parentId": "60da4a9fd0a9ce7fbf3a64f9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Public domain: (CC0)",
+        "body": "<p dir=\"ltr\">The <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\">public domain mark</a> can be used by a copyright holder to waive all your rights over a piece of data, including copyright. This is particularly useful in the sharing of data and databases, since it otherwise may be unclear whether highly factual data and databases are restricted by copyright or other rights.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attribution: (CC-BY v4.0)",
+        "body": "<p dir=\"ltr\">The <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">Creative Commons attribution licence</a> gives users rights to access, use and share (even commercially) your content. The only restriction is that the user must give credit to the data publisher (rights holder).</p><p dir=\"ltr\">The Irish government has adopted CC-BY v4.0 for <a href=\"http://data.gov.uk/\" target=\"_blank\">data.gov.ie</a>. &nbsp;CC-BY 4.0 is equivalent and compatible with the UK OGL. This means you can remix and combine data available under both licences without risk of legal issues relating to incompatible licences.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Attribution and Share-Alike (CC-BY-SA v4.0)",
+        "body": "<p dir=\"ltr\">The <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons attribution and&nbsp;share-alike licence</a> is the same as the attribution license with the added restriction that the data user must share back any changes and modifications made to the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Bespoke/Custom-made licences",
+    "displayTitle": "Bespoke/Custom-made licences",
+    "body": "<p dir=\"ltr\">A bespoke or custom-made licence is created by the data publisher and introduces specific conditions with which the user must comply. Bespoke or custom-made licences can be written by the publisher or adapted from a standard licence through the addition of new conditions and/or the modification of existing ones.</p><p dir=\"ltr\">Bespoke and custom-made licences can increase complexity for users of open data.</p><p dir=\"ltr\">They may introduce specific conditions that limit usage, restrict data integration and, in some cases, are difficult for users to comply with.</p><p><strong>If you come across a bespoke licence for data, what clauses will tell you if it is open?</strong></p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65ba",
+    "_layout": "full",
+    "_parentId": "60da4a9fd0a9ce7fbf3a651d",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "You can use the data for any purpose, even commercially",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "You can use the data for non-commercial or research purposes only",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "You can use the data for purposes approved by the publisher",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Open data is data that anyone can access, use and share. It must be free from restrictions, so you can use it for both commercial and non commercial purposes.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data is data that anyone can access, use and share. It must be free from restrictions, so you can use it for both commercial and non commercial purposes.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Third parties & contracts",
+    "displayTitle": "Third parties & contracts",
+    "body": "<p>The publication of open data may be required as part of the tendering, procurement and contracting lifecycle. If you require advice on open licensing and procurement, contact the Open Data Team at <a href=\"mailto:opendata@finance-ni.gov.uk\">opendata@finance-ni.gov.uk</a></p>",
+    "_id": "60da4aa0d0a9ce7fbf3a65bb",
+    "_parentId": "60da4a9fd0a9ce7fbf3a64f2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Third parties",
+        "body": "<p dir=\"ltr\">Governments often use contractors to provide services on their behalf.</p><p dir=\"ltr\">The Northern Ireland civil service is committed to publishing open data about services, and extending that to third parties.</p><p dir=\"ltr\">This publication is important because where public money is spent it should create a public good. Opening the data is an effective way to help deliver this and make it more transparent.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Including open data in contracts",
+        "body": "<p dir=\"ltr\">To ensure that data collected and used by contractors is also published as open data, an organisation can:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">include this as a condition in the contract.</p></li><li dir=\"ltr\"><p dir=\"ltr\">retain ownership of the data to publish it as open data themselves.</p></li></ul><p dir=\"ltr\"><a href=\"http://training.theodi.org/Procurement/Guide/\" target=\"_blank\">Take me to a guide on embedding open data into contracts</a></p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4aa0d0a9ce7fbf3a65c0",
+    "_parentId": "60da4a9fd0a9ce7fbf3a64f9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/00f7e50f6e0eebaeb2a02430b0e238fbf6315921.jpg",
+      "small": "course/en/assets/00f7e50f6e0eebaeb2a02430b0e238fbf6315921.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-353727374\" target=\"_blank\">Icons vector</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  }
+]

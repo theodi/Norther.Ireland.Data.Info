@@ -1,0 +1,179 @@
+{
+  "3870d2023395291d5f1bd5c0837f8178067fd665.jpg": {
+    "title": "Glasses",
+    "description": "Tabular interactive",
+    "source": "https://www.shutterstock.com/image-photo/tabulation-statistical-data-business-analysis-office-262874696?src=id",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Benjaminec",
+    "tags": [
+      {
+        "title": "narrative",
+        "_id": "608686bed0a9ce7fbf3a2cea"
+      },
+      {
+        "title": "numbers",
+        "_id": "608686c0d0a9ce7fbf3a2d41"
+      },
+      {
+        "title": "table",
+        "_id": "608686c0d0a9ce7fbf3a2d42"
+      },
+      {
+        "title": "glasses",
+        "_id": "608686c0d0a9ce7fbf3a2d43"
+      }
+    ]
+  },
+  "50253022ac8650bdccad84f4225f5100045c6da5.png": {
+    "title": "CC-BY-SA",
+    "description": "CC-BY-SA",
+    "source": "https://creativecommons.org/",
+    "licence": "CC0",
+    "attribution": "https://creativecommons.org/",
+    "tags": []
+  },
+  "6674b6d19f88e77b508eaea51cc20c51c91e6fcf.png": {
+    "title": "EDP logo",
+    "description": "EDP logo",
+    "source": "https://www.europeandataportal.eu/",
+    "licence": "All rights reserved",
+    "attribution": "European Data Portal",
+    "tags": []
+  },
+  "8069d2a4618084e967165ac7f06b4750e01098da.png": {
+    "title": "Summary clipboard white",
+    "description": "Summary clipboard white",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
+    "title": "Adapt eLearning",
+    "description": "Adapt eLearning",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": [
+      {
+        "title": "client logos",
+        "_id": "608686c4d0a9ce7fbf3a2df5"
+      }
+    ]
+  },
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "608686c5d0a9ce7fbf3a2e19"
+      },
+      {
+        "title": "intro logo",
+        "_id": "608686c5d0a9ce7fbf3a2e18"
+      }
+    ]
+  },
+  "f9855a4bc775449c566dabcd78c05fde759d0689.png": {
+    "title": "Open Logo Small",
+    "description": "Open Logo Small",
+    "source": "https://theodi.org",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "7ac658a53bf4a828175b32a479d87c8d1beaed71.png": {
+    "title": "NI-Logo-No-Text.png",
+    "description": "Open Data NI",
+    "source": "https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing",
+    "licence": "All rights reserved",
+    "attribution": "Open Data NI",
+    "tags": [
+      {
+        "title": "NI Gov",
+        "_id": "60ae5375d0a9ce7fbf3a41b4"
+      }
+    ]
+  },
+  "8325a5f2972cd0548941896469479daee05a87bb.jpg": {
+    "title": "picking-format-2-430x430",
+    "description": "img2 mod9 NI Gov\nChoosing the right format for open data",
+    "source": "https://pixabay.com/photos/weather-vane-wind-vane-wind-rose-1209398/",
+    "licence": "CC0",
+    "attribution": "free-photos",
+    "tags": []
+  },
+  "1954b98ce9fcddab0233ebd730b0a9733f0c47d3.jpg": {
+    "title": "table-data-430x430",
+    "description": "img 2 mod9 NI Gov\nTable Data",
+    "source": "https://www.pexels.com/photo/multi-colored-folders-piled-up-159519/",
+    "licence": "CC0",
+    "attribution": "PixelBay",
+    "tags": []
+  },
+  "d32cdf251db65fc81b0b75b0ba4c9c64403f2dd3.jpg": {
+    "title": "building-430x430",
+    "description": "img4 mod9 NI Gov\nOther data structures and formats",
+    "source": "https://pixabay.com/photos/building-exterior-office-building-1210022/",
+    "licence": "CC0",
+    "attribution": "Free-Photos",
+    "tags": []
+  },
+  "180499d48e8237b25e2fa23f2243fbc4e16522e6.jpg": {
+    "title": "memory-formats-430x430",
+    "description": "img5 mod9 NI Gov",
+    "source": "https://pixabay.com/photos/memory-data-floppy-disk-cd-dvd-769053/",
+    "licence": "CC0",
+    "attribution": "succo",
+    "tags": []
+  },
+  "84d4e97867d8d6ac1431cde5ec5ca9a12f0936e6.png": {
+    "title": "NI-Logo-No-Text-white",
+    "description": "NI-Logo-No-Text-white",
+    "source": "https://www.opendatani.gov.uk/",
+    "licence": "All rights reserved",
+    "attribution": "NI No text",
+    "tags": []
+  },
+  "b02babee7e4a5f2c7cd63999f9e3e02ea4c51f89.png": {
+    "title": "Machine readable",
+    "description": "Machine readable",
+    "source": "N/A",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": [
+      {
+        "title": "machine readable",
+        "_id": "60d35a7ad0a9ce7fbf3a5b61"
+      },
+      {
+        "title": "tabular",
+        "_id": "60d35a7cd0a9ce7fbf3a5b62"
+      },
+      {
+        "title": "spreadsheet",
+        "_id": "60994943d0a9ce7fbf3a34f4"
+      }
+    ]
+  },
+  "fa609fcefd15b4e3ee003c0a1d772b48d19b8ebe.xlsx": {
+    "title": "roads-dataset.xlsx",
+    "description": "roads-dataset.xlsx",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "e26ccc4673ebbc6718ac403b2e7d6fbc9e447a50.xlsx": {
+    "title": "roads-dataset-multisheet.xlsx",
+    "description": "roads-dataset-multisheet.xlsx",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  }
+}

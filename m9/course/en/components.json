@@ -1,0 +1,831 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p dir=\"ltr\">The format of an open dataset refers to the way in which the data is structured and made available for humans and machines.</p><p dir=\"ltr\">Choosing the right structure and format helps ensure the data can be simply managed and reused. To maximise reuse of the data, it may be necessary for a publisher to use a number of structures and formats available across different platforms to suit users' needs.</p><p dir=\"ltr\">Wherever possible, the CSV file format should be used for sharing open data. CSV is a simple to understand, highly reusable and machine readable format.</p>",
+    "_id": "60da4b2cd0a9ce7fbf3a72fd",
+    "_layout": "left",
+    "_parentId": "60da4b2bd0a9ce7fbf3a7270",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b2cd0a9ce7fbf3a72fe",
+    "_layout": "right",
+    "_parentId": "60da4b2bd0a9ce7fbf3a7270",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing the right format for open data",
+    "displayTitle": "Choosing the right format for open data",
+    "body": "<p>The format&nbsp;of an open dataset refers to the way in which the data is structured and made available for humans and machines.</p><p>Choosing the right format helps ensure the data can be simply managed and reused. To maximise reuse of data, it may be necessary for a publisher to use a number of structures and formats available across different platforms to suit users' needs.</p><p><strong>In this module we'll explore:</strong></p><ul><li>Why the structure and format matters</li><li>Tabular data structures and formats</li><li>Machine readable tabular data</li><li>Other data structures and formats<br />&nbsp;</li></ul>",
+    "_id": "60da4b2cd0a9ce7fbf3a7372",
+    "_layout": "left",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72be",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " NI Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b2cd0a9ce7fbf3a7373",
+    "_layout": "right",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72be",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Why is picking the right format for open data important?",
+    "displayTitle": "Why is picking the right format for open data important?",
+    "body": "<p dir=\"ltr\"><strong>Why is picking the right structure and format for open data important?</strong></p>",
+    "_id": "60da4b2cd0a9ce7fbf3a7374",
+    "_layout": "left",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72bf",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Ensure that privacy is protected"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "Drive down costs"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "Ease, usability, management and access"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Picking the correct formats will assist usability, make management easier and lower the barriers of access. Choices here will not affect privacy and may even increase cost</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Picking the correct formats will assist usability, make management easier and lower the barriers of access. Choices here will not affect privacy and may even increase cost.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b2cd0a9ce7fbf3a7375",
+    "_layout": "right",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72bf",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/180499d48e8237b25e2fa23f2243fbc4e16522e6.jpg",
+      "small": "course/en/assets/180499d48e8237b25e2fa23f2243fbc4e16522e6.jpg",
+      "attribution": "<a href=\"https://pixabay.com/photos/memory-data-floppy-disk-cd-dvd-769053/\" target=\"_blank\">succo</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing the right format for open data",
+    "displayTitle": "Choosing the right format for open data",
+    "body": "<p>Open data is data that anyone can access, use and share. Choosing the right structure and format makes it as easy as possible to access, use and share the data.</p><p>For data to be as accessible as possible, it must be in a format that</p><ul><li>The (human) user can understand</li><li>Machines can read</li><li>Supports the data's easy reuse.</li><li>Doesn’t require proprietary tools like Microsoft Excel or Adobe Creative Cloud (Photoshop etc) to access.</li></ul><p>The format appropriate for each dataset may be different. A document (like a PDF) may make the data easy for a human to understand but not the most readable for a machine. For this reason, it might be necessary to make the data available in a range of different formats to meet the needs of the data, the human users and the machines.&nbsp;</p>",
+    "_id": "60da4b2cd0a9ce7fbf3a7376",
+    "_layout": "left",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c0",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b2cd0a9ce7fbf3a7377",
+    "_layout": "right",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c0",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8325a5f2972cd0548941896469479daee05a87bb.jpg",
+      "small": "course/en/assets/8325a5f2972cd0548941896469479daee05a87bb.jpg",
+      "attribution": "<a href=\"https://pixabay.com/photos/weather-vane-wind-vane-wind-rose-1209398/\" target=\"_blank\">free-photos</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tabular data",
+    "displayTitle": "Tabular data",
+    "body": "<p>The most common structure for open data is tabular. Data is organised into rows and columns listing sequential values, such as expenditure.</p><p>If the data is based on separate entries that are not linked to each other then a tabular file structure in a format such as CSV is ideal. CSV stands for comma separated value, and it is simply lines of data with each data point separated from the next by a comma.&nbsp;</p><p dir=\"ltr\">While it doesn’t maintain formatting and graphs like Microsoft Excel, CSV is an open and machine readable format.</p><p dir=\"ltr\">An example of appropriate tabular data is <a href=\"https://www.opendatani.gov.uk/dataset/gp-prescribing-data\" target=\"_blank\">OpenDataNI’s GP Prescribing Data</a>.</p>",
+    "_id": "60da4b2cd0a9ce7fbf3a7378",
+    "_layout": "right",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b2cd0a9ce7fbf3a7379",
+    "_layout": "left",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1954b98ce9fcddab0233ebd730b0a9733f0c47d3.jpg",
+      "small": "course/en/assets/1954b98ce9fcddab0233ebd730b0a9733f0c47d3.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/multi-colored-folders-piled-up-159519/\" target=\"_blank\">PixelBay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Other data structures and formats",
+    "displayTitle": "Other data structures and formats",
+    "body": "<p>Although tabular data in a CSV format is the most common structure for government open data, there are other structures and formats&nbsp;that you may come across.</p>",
+    "_id": "60da4b2cd0a9ce7fbf3a737a",
+    "_layout": "left",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c3",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Hierarchical data",
+        "body": "<p dir=\"ltr\">Hierarchical data shows the relationships between data points, such as a family tree or municipalities in each country. If the dataset depends on the relationship between data points and follows a structure in which data points are linked in vertical ‘trees’, <a href=\"http://json.org/example.html\" target=\"_blank\">a format such as JSON is ideal</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Network data",
+        "body": "<p dir=\"ltr\">Network structured data allows relationships to exist between any combination of elements in any direction.</p><p dir=\"ltr\">A good example of a network data structure is a social network. Think of your network of friends and their friends on Facebook; consider first, second and third degree contacts on LinkedIn.</p><p dir=\"ltr\">The Web is another example of a network data structure, where web pages link to any number of other pages in any direction.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Live data and data feeds",
+        "body": "<p dir=\"ltr\">Some data is not suitable to be made available as a downloadable file. Much of this data is updated so regularly that the file downloads would be too large for most users. This type of open data structure may be made available by a machine interface, also known as an application programming interface (API).</p><p dir=\"ltr\">There are many services that make machine interfaces available over the web. These services can be directly integrated into other Web applications. For an example of an open data API, see the <a href=\"http://api.irishrail.ie/realtime/index.htm\" target=\"_blank\">Irish Rail API</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Geospatial data",
+        "body": "<p dir=\"ltr\">Geospatial data is often more complex than simple tabular datasets.</p><p>It can exist as a hierarchical dataset, detailing countries and counties/states, or as a network dataset, detailing roads. It can also be unstructured data too.</p><p dir=\"ltr\">When publishing this type of data, you could consider formats like&nbsp;<a href=\"https://en.wikipedia.org/wiki/GeoJSON\" target=\"_blank\">geoJSON</a>, <a href=\"https://en.wikipedia.org/wiki/Shapefile\" target=\"_blank\">shapefile </a>and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Keyhole_Markup_Language\" target=\"_blank\">KML</a>. These formats are specifically designed with usability in mind and can easily be imported and exported from specialist mapping tools like&nbsp;<a href=\"http://www.openstreetmap.org/\" target=\"_blank\">Open Street Map</a>&nbsp;and&nbsp;<a href=\"https://cartodb.com/\" target=\"_blank\">CartoDB</a>.</p><p dir=\"ltr\">If you need to publish geospatial data and you don’t know what format to choose, you can contact the Open Data NI team at <a href=\"mailto:opendata@finance-ni.gov.uk\">opendata@finance-ni.gov.uk</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Unstructured data",
+        "body": "<p dir=\"ltr\">Some data is unstructured, such as video files, images or sound files. The best format for publishing that type of data is usually the one in which it was built or managed. If it is a reusable, or open format, that’s even better.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b2cd0a9ce7fbf3a737b",
+    "_layout": "right",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c3",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/180499d48e8237b25e2fa23f2243fbc4e16522e6.jpg",
+      "small": "course/en/assets/180499d48e8237b25e2fa23f2243fbc4e16522e6.jpg",
+      "attribution": "<a href=\"https://pixabay.com/photos/memory-data-floppy-disk-cd-dvd-769053/\" target=\"_blank\">succo</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open data formats",
+    "displayTitle": "Open data formats",
+    "body": "<p>ODI Trainer David Tarrant explains why formats matter in open data, how to choose the right structure and formats, and why CSV is a good starting point for most tabular open data.</p>",
+    "_id": "60da4b2cd0a9ce7fbf3a737c",
+    "_layout": "full",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c4",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_playerOptions": "",
+    "_transcript": {
+      "transcriptLink": "",
+      "transcriptLinkButton": "",
+      "inlineTranscriptBody": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptButton": "",
+      "_externalTranscript": false,
+      "_inlineTranscript": false,
+      "_setCompletionOnView": true
+    },
+    "_playsinline": false,
+    "_allowFullScreen": false,
+    "_startLanguage": "en",
+    "_useClosedCaptions": false,
+    "_setCompletionOn": "inview",
+    "_media": {
+      "cc": [],
+      "poster": "",
+      "type": "video/vimeo",
+      "source": "https://player.vimeo.com/video/129197202",
+      "mp3": "",
+      "webm": "",
+      "ogv": "",
+      "mp4": ""
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "white mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphics",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b2cd0a9ce7fbf3a73a5",
+    "_layout": "left",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72e1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d32cdf251db65fc81b0b75b0ba4c9c64403f2dd3.jpg",
+      "small": "course/en/assets/d32cdf251db65fc81b0b75b0ba4c9c64403f2dd3.jpg",
+      "attribution": "<a href=\"https://pixabay.com/photos/building-exterior-office-building-1210022/\" target=\"_blank\">Free-Photos</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Other data structures",
+    "displayTitle": "Other data structures",
+    "body": "<p dir=\"ltr\">Not all data is suited to a tabular structure. There are two other key structures to be aware of: hierarchical and network.</p><p dir=\"ltr\"><strong>Which example of data is best suited to which structure?</strong></p>",
+    "_id": "60da4b2cd0a9ce7fbf3a73a6",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72e1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Hierarchical data",
+        "_options": [
+          {
+            "text": "Spending data",
+            "_isCorrect": false
+          },
+          {
+            "text": "Family tree",
+            "_isCorrect": true
+          },
+          {
+            "text": "LinkedIn connections",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Network data",
+        "_options": [
+          {
+            "text": "Spending data",
+            "_isCorrect": false
+          },
+          {
+            "text": "Family tree",
+            "_isCorrect": false
+          },
+          {
+            "text": "LinkedIn connections",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">Hierarchical data shows the vertical relationship between data. As such, a family tree is best shown in a hierarchical structure.</p><p dir=\"ltr\">Network structured data allows any number of relationships between data, such as your LinkedIn connections.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">Hierarchical data shows the vertical relationship between data. As such, a family tree is best shown in a hierarchical structure.</p><p dir=\"ltr\">Network structured data allows any number of relationships between data, such as your LinkedIn connections.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Machine readable tabular data",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><strong><a href=\"course/en/assets/fa609fcefd15b4e3ee003c0a1d772b48d19b8ebe.xlsx\" target=\"_blank\">Click here</a> to download a copy of the data</strong></p>",
+    "_id": "60da4b2cd0a9ce7fbf3a73a7",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72e2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Which three of the following options will make the data machine readable?",
+    "_items": [
+      {
+        "text": "Move the table to start in cell A1",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Move the table to start in cell B2",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Remove the total row from the table",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Remove the title \"Traffic counts on different roads\"",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Move the title \"Traffic counts on different roads\" to cell A1",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Remove the graph",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Remove the filters",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Remove the colours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>When looking at tabular data a machine will look for the data to start in cell A1. Even though some applications, like Microsoft Excel, can add metadata to define where tables are, this metadata is lost when exporting the same data in formats like CSV.&nbsp;</p><p>Additionally, if a total row is included in the \"raw data\" then it is no longer raw data as it contains information. A top tip when managing data in a spreadsheet is to keep the raw data separate from the information. This can be done by using multiple sheets. Multiple sheets can also be used to add titles, descriptions and other metadata.</p><p>An example of this can be seen in this <a href=\"course/en/assets/e26ccc4673ebbc6718ac403b2e7d6fbc9e447a50.xlsx\" target=\"_blank\">workbook</a>.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>When looking at tabular data a machine will look for the data to start in cell A1. Even though some applications, like Microsoft Excel, can add metadata to define where tables are, this metadata is lost when exporting the same data in formats like CSV.&nbsp;</p><p>Additionally, if a total row is included in the \"raw data\" then it is no longer raw data as it contains information. A top tip when managing data in a spreadsheet is to keep the raw data separate from the information. This can be done by using multiple sheets. Multiple sheets can also be used to add titles, descriptions and other metadata.</p><p>An example of this can be seen in this <a href=\"course/en/assets/e26ccc4673ebbc6718ac403b2e7d6fbc9e447a50.xlsx\" target=\"_blank\">workbook</a>.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Machine readable tabular data",
+    "displayTitle": "Machine readable tabular data",
+    "body": "<p dir=\"ltr\">For data to be usable, a human must be able to understand it and a machine be able to read it. We can program machines to be able to read many sorts of data, but there are some simple things we can do to make it easier for them.</p><p dir=\"ltr\">Take a look at the tabular data below that has been created in a spreadsheet application. This is an example of a human readable dataset, but can a machine read and understand it?</p>",
+    "_id": "60da4b2cd0a9ce7fbf3a73a8",
+    "_parentId": "60da4b2cd0a9ce7fbf3a72c2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b02babee7e4a5f2c7cd63999f9e3e02ea4c51f89.png",
+      "small": "course/en/assets/b02babee7e4a5f2c7cd63999f9e3e02ea4c51f89.png",
+      "attribution": "<a href=\"N/A\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  }
+]

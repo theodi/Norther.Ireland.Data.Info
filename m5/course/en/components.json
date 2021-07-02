@@ -1,0 +1,1314 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Using standards in data",
+    "displayTitle": "Using standards in data",
+    "body": "<p dir=\"ltr\"><strong>Which of the following might you see in a standard for data?</strong></p>",
+    "_id": "60da4ad7d0a9ce7fbf3a67a6",
+    "_layout": "left",
+    "_parentId": "60da4ad6d0a9ce7fbf3a672d",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "How to consistently write numbers and dates",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "What abbreviations can be used",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "What file format the data should be available in",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "What data should be included",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "How much the data cost to produce",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Standards can be used for all sorts of things. For example:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">to standardise the words that we use for concepts, classifications and individual words. For example, the definitions of&nbsp;different types of education across the UK.</p></li><li dir=\"ltr\"><p dir=\"ltr\">to specify common formats and shared rules that lead to consistent data. For example, explaining what each of the headings in a CSV file means.</p></li><li dir=\"ltr\"><p dir=\"ltr\">to help people and organisations understand how to collect, publish and use the data. For example, how to consistently record temperature readings.</p></li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">Standards can be used for all sorts of things. For example:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">to standardise the words that we use for concepts, classifications and individual words. For example, the definitions of&nbsp;different types of education across the UK.</p></li><li dir=\"ltr\"><p dir=\"ltr\">to specify common formats and shared rules that lead to consistent data. For example, explaining what each of the headings in a CSV file means.</p></li><li dir=\"ltr\"><p dir=\"ltr\">to help people and organisations understand how to collect, publish and use the data. For example, how to consistently record temperature readings.</p></li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a67ac",
+    "_layout": "right",
+    "_parentId": "60da4ad6d0a9ce7fbf3a672e",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted footer",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p dir=\"ltr\">Open data becomes usable when a human can understand it and a machine can manipulate it. Both of these require the permission of the publisher, granted via an open licence. However, the open licence alone is not sufficient to guarantee the usability of data.&nbsp;</p><p>There are legal, practical, technical and social requirements and guidelines that publishers can use to make their data more usable.&nbsp;</p><p dir=\"ltr\">Quality marques such as the&nbsp;<a href=\"https://5stardata.info/en/\" target=\"_blank\">5 Star Linked Open Data system</a> and the <a href=\"https://certificates.theodi.org/en/\" target=\"_blank\">Open Data Certificates</a> inform users that the data is a certain quality.</p><p dir=\"ltr\">The<a href=\"https://www.go-fair.org/fair-principles/\" target=\"_blank\"> FAIR data principles</a>, making sure that data is findable, accessible, interoperable and reusable, helps to make it easier for people to access, use and share.</p><p dir=\"ltr\">Standards for data help to make data more reusable and easier to combine with other data. The <a href=\"https://standards.theodi.org/\" target=\"_blank\">Open Standards for Data guidebook</a> has lots of information including the <a href=\"https://standards.theodi.org/creating-impact/\" target=\"_blank\">impact of using standards</a>, <a href=\"https://standards.theodi.org/find-existing-standards/\" target=\"_blank\">how to choose an open standard</a> to apply to your data, and <a href=\"https://standards.theodi.org/community/\" target=\"_blank\">who is already using open standards for data</a>.</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a67ad",
+    "_layout": "left",
+    "_parentId": "60da4ad6d0a9ce7fbf3a672e",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Marques of quality",
+    "displayTitle": "Marques of quality",
+    "body": "<p>Marques of quality provide users with confidence about the quality and usability of open data.</p><p>There are two key indicators of open data quality:</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a67ae",
+    "_layout": "left",
+    "_parentId": "60da4ad6d0a9ce7fbf3a6737",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "5 Stars",
+        "body": "<p>The 5 Star Linked Open Data system was developed by inventor of the Web, Sir Tim Berners-Lee, in 2010, and makes recommendations for the legal and technical requirements of linked data. All the data published on Open Data NI should be 3 stars. You can find out more about the 5 stars in <a href=\"#/id/60993b6ed0a9ce7fbf3a3180\"> Module 10</a>&nbsp;of this course.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "ODI Open Data Certificates",
+        "body": "<p dir=\"ltr\">The <a href=\"https://certificates.theodi.org/en/\" target=\"_blank\">Open Data Institute's Open Data Certificates</a> complement the legal and technical requirements included in the 5 stars Linked Open Data system. Certificates have been designed to cover the broadest range of both technical and non-technical requirements that increase usability of data. Each section – legal, practical, technical and social – expands in more detail from the general points covered in this module.</p><p dir=\"ltr\">The certificates act as a self-assessment questionnaire for publishers and awards kite marks at different levels as well as recommendations on how to reach the next level of usability.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Globe for impact of standards",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a67b8",
+    "_layout": "left",
+    "_parentId": "60da4ad6d0a9ce7fbf3a6733",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0917d7345ea6bfd3f1ed92a98172a0c7b60db757.jpeg",
+      "small": "course/en/assets/0917d7345ea6bfd3f1ed92a98172a0c7b60db757.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/planet-earth-87651/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Quality ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a67c7",
+    "_layout": "right",
+    "_parentId": "60da4ad6d0a9ce7fbf3a6737",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/69f9528dbbea57a92759ea2de8fcb17ae4f8bef7.jpg",
+      "small": "course/en/assets/69f9528dbbea57a92759ea2de8fcb17ae4f8bef7.jpg",
+      "attribution": "<a href=\"unsplash.com\" target=\"_blank\">Etienne Girardet</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Standards",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a67c8",
+    "_layout": "right",
+    "_parentId": "60da4ad6d0a9ce7fbf3a672d",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/03bdc4b8c2b2c8ecd7071ed8d9a6b2032cb9d902.jpg",
+      "small": "course/en/assets/03bdc4b8c2b2c8ecd7071ed8d9a6b2032cb9d902.jpg",
+      "attribution": "<a href=\"unsplash.com\" target=\"_blank\">Mikołaj</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What makes quality open data",
+    "displayTitle": "What makes quality open data",
+    "body": "<p>Assessing how usable open data is cannot be done quickly.</p><p>There are several&nbsp;community-based standards and quality marques that can help you assess how usable data is.</p><p><strong>In this module we’ll explore the following:</strong></p><ul><li>What makes data usable</li><li>How standards help increase the usability of data</li><li>Marques of quality</li></ul>",
+    "_id": "60da4ad7d0a9ce7fbf3a6801",
+    "_layout": "left",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6760",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " NI Logo",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a6802",
+    "_layout": "right",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6760",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Assessing open data quality - in two minutes",
+    "displayTitle": "Assessing open data quality - in two minutes",
+    "body": "<p>ODI Trainer David Tarrant explains what quality data is, how to recognise it and which quality marques consumers of open data should look for.</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6803",
+    "_layout": "full",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6761",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129197043",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What makes data usable?",
+    "displayTitle": "What makes data usable?",
+    "body": "<p><strong>What makes data usable?</strong></p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6804",
+    "_layout": "left",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6763",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Context to help a human understand it",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Structure, so a machine can manipulate it",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "An endorsement from the publisher",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "How many people are already using it",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Open data becomes usable when a human can understand it and a machine can manipulate it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">Open data becomes usable when a human can understand it and a machine can manipulate it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " usability - cogs",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a6805",
+    "_layout": "right",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6763",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8c2fc9fadce1bd1e4546ad4130bb2590f946524c.jpg",
+      "small": "course/en/assets/8c2fc9fadce1bd1e4546ad4130bb2590f946524c.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/gray-and-gold-steel-gears-159275/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Making data usable ",
+    "displayTitle": "Making data usable ",
+    "body": "<p dir=\"ltr\">Open data becomes usable when a human can understand it and a machine can manipulate it.</p><p dir=\"ltr\">Open data users need the permission of the data publisher, granted by an open licence. But the open licence alone is not enough to guarantee the usability of data.</p><p>There are many other aspects to consider that make data usable including:</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6806",
+    "_layout": "full",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6764",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Legal requirements",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">In addition to the open licence, you must:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">abide by data protection legislation.</p></li><li dir=\"ltr\"><p dir=\"ltr\">preserve the rights of individuals, providers and third parties.</p></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/c77c8c51972818cc5b862c93cf2f4ad44f9e92ad.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/planet-earth-87651/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Legal"
+      },
+      {
+        "title": "Practical requirements",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">It is important that open data can be found and relied upon by users.</p><p dir=\"ltr\">This means that open data publishers should:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">link to the data from their website.</p></li><li dir=\"ltr\"><p dir=\"ltr\">update the data regularly if it changes.</p></li><li dir=\"ltr\"><p dir=\"ltr\">commit to continue to make the data available.</p></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Practical"
+      },
+      {
+        "title": "Technical requirements",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">There are three requirements&nbsp;that define the technical aspects of open data:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Publish the data in a widely used format</p></li><li dir=\"ltr\"><p dir=\"ltr\">Make sure the data structure is simple and machine readable</p></li><li dir=\"ltr\"><p dir=\"ltr\">Provide clear documentation to describe the structure, types and codes within the data, for example,&nbsp;abbreviations.</p></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/9c981d14f95c974b309615991103e991912be16c.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/personal-computer-motherboard-4316/\" target=\"_blank\">JÉSHOOTS</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Technical"
+      },
+      {
+        "title": "Social requirements",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">For data use to be sustainable, it is important to have an engaged community of users. The best datasets are supported by:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">active support channels.</p></li><li dir=\"ltr\"><p dir=\"ltr\">discussion groups and forums.</p></li><li dir=\"ltr\"><p dir=\"ltr\">published how-to guides on working with the data.</p></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/33d07a1f0429e028d8dec59c84b2a48aeeb968c6.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/close-up-photography-of-yellow-green-red-and-brown-plastic-cones-on-white-lined-surface-163064/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Social"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FAIR data principles",
+    "displayTitle": "FAIR data principles",
+    "body": "<p dir=\"ltr\">The <a href=\"https://www.go-fair.org/fair-principles/\" target=\"_blank\">FAIR data principles</a>, more widely used for research and scientific data, set out four basic principles that data should be <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable by others.&nbsp;</p><p dir=\"ltr\">Data becomes <strong>Findable</strong> when it is well described with clear metadata and referenced in many portals, publications and websites.</p><p dir=\"ltr\">Data becomes <strong>Accessible</strong> when it can be easily downloaded or transferred.&nbsp;</p><p dir=\"ltr\">Data becomes <strong>Interoperable</strong> when it can be combined and remixed with other data, using shared terminology and standards.</p><p>Data becomes <strong>Reusable </strong>when it is made available under a licence that permits wide reuse and updated on a regular basis.</p><p dir=\"ltr\">These categories are very similar to those of the ODI Open Data Certificates.</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6807",
+    "_layout": "right",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6765",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " FAIR",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a6808",
+    "_layout": "left",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6765",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/db970e4de0eaf7ad78f436bced48fcd1db496b88.jpg",
+      "small": "course/en/assets/db970e4de0eaf7ad78f436bced48fcd1db496b88.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/DZpc4UY8ZtY\" target=\"_blank\">Tingey Injury Law Firm</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Evaluating the usability of data",
+    "displayTitle": "Evaluating the usability of data",
+    "body": "<p dir=\"ltr\">One of the main frustrations people have when trying to reuse data is the inconsistent ways in that data is represented.&nbsp;</p><p>Take the following two datasets and compare them.&nbsp;</p><p dir=\"ltr\">What differences are you able to spot that mean the datasets are inconsistent with each other?</p><ol><li dir=\"ltr\"><p dir=\"ltr\">Differences in date formats</p></li><li dir=\"ltr\"><p dir=\"ltr\">DIfferences in units on numbers</p></li><li dir=\"ltr\"><p dir=\"ltr\">Abbreviations vs= no abbreviations</p></li><li dir=\"ltr\"><p dir=\"ltr\">Different ways of representing locations, easting/northing v longitude/latitude</p></li></ol>",
+    "_id": "60da4ad7d0a9ce7fbf3a6809",
+    "_layout": "left",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6766",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " usability1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a680a",
+    "_layout": "right",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6766",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a38f0717eb7daa82166d59b478d282a2cdc33518.jpg",
+      "small": "course/en/assets/a38f0717eb7daa82166d59b478d282a2cdc33518.jpg",
+      "attribution": "<a href=\"pexels.com\" target=\"_blank\">cottonbro</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Evaluating the usability of data",
+    "displayTitle": "Evaluating the usability of data",
+    "body": "<p dir=\"ltr\">Using standards to increase the usability&nbsp; of data</p><p dir=\"ltr\">One key way to increase the usability of data is to conform to widely used standards. A standard is a documented and reusable agreement that details how something should be done.</p><p dir=\"ltr\">Everyday standards include standards for electrical sockets so any appliance can be plugged in and standard measurements for drinks.</p><p dir=\"ltr\">In data, there are a number of standards that already exist for everything from date formats (<a href=\"https://www.iso.org/iso-8601-date-and-time-format.html\" target=\"_blank\">ISO 8601</a>) to how to be compliant with General Data Protection Regulation (GDPR) (<a href=\"https://en.wikipedia.org/wiki/ISO/IEC_27701\" target=\"_blank\">ISO 27701</a>).</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a680b",
+    "_layout": "right",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6767",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " usability",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4ad7d0a9ce7fbf3a680c",
+    "_layout": "left",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6767",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8c22a36eff1ff9176e9be8bbd28b96154acf0457.jpg",
+      "small": "course/en/assets/8c22a36eff1ff9176e9be8bbd28b96154acf0457.jpg",
+      "attribution": "<a href=\"pexels.com\" target=\"_blank\">Negative Space</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The impact of standards for data",
+    "displayTitle": "The impact of standards for data",
+    "body": "<p dir=\"ltr\">Standards for data can have social, environmental and economic impact.</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a680d",
+    "_parentId": "60da4ad6d0a9ce7fbf3a6733",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Social impact",
+        "body": "<p dir=\"ltr\"><a href=\"https://www.openactive.io/\" target=\"_blank\">OpenActive</a> is an initiative to get providers to publish data about when and where people can do physical activity and sports. <a href=\"https://www.openactive.io/about/setting-data-standards/#:~:text=The%20purpose%20of%20OpenActive%20standards,to%20connect%20and%20share%20data.\" target=\"_blank\">OpenActive provides standards for the data</a> to make it more comparable and usable, making it easier for organisations and businesses to find details of physical activities happening in their local area.</p><p><br />In England, the <a href=\"https://www.gov.uk/government/publications/brownfield-land-registers-data-standard\" target=\"_blank\">brownfield site open data standard</a> was created to enable local planning authorities in England to share consistent and publicly available data on land suitable for residential development.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Environmental impact",
+        "body": "<p dir=\"ltr\">Recycling can be very complicated. The <a href=\"https://drive.google.com/file/d/1oi0bGv7JwHLV0lRDcVspkDzvoueQhZdq/view\" target=\"_blank\">open waste data standard</a> aims to standardise the data councils publish about recycling to make it easier for individuals and businesses to do so.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Economic impact",
+        "body": "<p><a href=\"https://www.openbanking.org.uk/\" target=\"_blank\">Open Banking</a>, the standard for creating, sharing and using banking data, is developed and maintained collaboratively and transparently. It provides a focus for the shared vision of <a href=\"https://theodi.org/open-banking-standard\" target=\"_blank\">improving people’s banking experience</a> and making the banking industry more innovative and efficient.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "True or false: legal requirements",
+    "displayTitle": "",
+    "body": "<p>What are the<strong> legal requirements</strong> of quality data?</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6850",
+    "_layout": "left",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6790",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "The dataset has an open licence",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The dataset is linked to Showcase examples of its use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "There is a clear privacy statement or link to a privacy impact assessment",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">✓&nbsp; The dataset has an open licence</p><p dir=\"ltr\">✓ The dataset is linked to Showcase examples of its use</p><p dir=\"ltr\">X Although there is a site-wide privacy statement, there is no specific privacy impact assessment for this data..</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>✓&nbsp; The dataset has an open licence</p><p dir=\"ltr\">✓ The dataset is linked to Showcase examples of its use</p><p dir=\"ltr\">X Although there is a site-wide privacy statement, there is no specific privacy impact assessment for this data..</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "True or false: Practical requirements",
+    "displayTitle": "",
+    "body": "<p>What are the<strong> practical requirements</strong> of quality data?</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6851",
+    "_layout": "right",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6790",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "The data is updated regularly",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The data is linked to from the OpenDataNI portal",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Limitations and quality issues with the data are clearly described (if there are any)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">✓ The data is linked to from OpenData NI</p><p dir=\"ltr\">✓ The data is updated regularly</p><p dir=\"ltr\">X Limitations and quality issues with the data are clearly described (if there are any)</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">✓ The data is linked to from OpenData NI</p><p dir=\"ltr\">✓ The data is updated regularly</p><p dir=\"ltr\">X Limitations and quality issues with the data are clearly described (if there are any)</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "True or false: Technical requirements",
+    "displayTitle": "",
+    "body": "<p>What are the<strong> technical requirements</strong> of quality data?</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6852",
+    "_layout": "left",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6791",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "The data is available online in a CSV file",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The data is well structured and can easily be filtered and searched",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Technical documentation is provided describing the structure of the data etc",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">✓ The data is available online in a CSV file</p><p dir=\"ltr\">✓ The data is well structured and can easily be filtered and searched</p><p dir=\"ltr\">X Technical documentation is provided describing the structure of the data and defining abbreviations etc (if such technical documentation is required).</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">✓ The data is available online in a CSV file</p><p dir=\"ltr\">✓ The data is well structured and can easily be filtered and searched</p><p dir=\"ltr\">X Technical documentation is provided describing the structure of the data and defining abbreviations etc (if such technical documentation is required).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "True or false: Social requirements",
+    "displayTitle": "",
+    "body": "<p>What are the<strong> social requirements</strong> of quality data?</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6853",
+    "_layout": "right",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6791",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "There is a contact email address",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "There is a forum for asking questions, and there are responses from the publisher",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "There are links to guides that help people work with the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">✓ There is a contact email address</p><p dir=\"ltr\">X There is a forum for asking questions, and there are responses from the publisher</p><p dir=\"ltr\">X There are links to guides that help people work with the data</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">✓ There is a contact email address</p><p dir=\"ltr\">X There is a forum for asking questions, and there are responses from the publisher</p><p dir=\"ltr\">X There are links to guides that help people work with the data</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Assessing usability of data",
+    "displayTitle": "Assessing usability of data",
+    "body": "<p dir=\"ltr\"><a href=\"https://www.opendatani.gov.uk/dataset/gp-prescribing-data\" target=\"_blank\">Follow this link to look at this GP prescribing data</a>&nbsp;on&nbsp;Open Data NI.</p><p dir=\"ltr\"><strong>What legal, practical, technical and social requirements can you see in practice? Use what you find to answer the questions below.</strong></p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6854",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6762",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/770b9a4df1ea387567ed2c4c23c8bd1955d49a5a.png",
+      "small": "course/en/assets/770b9a4df1ea387567ed2c4c23c8bd1955d49a5a.png",
+      "attribution": "<a href=\"https://www.opendatani.gov.uk/dataset/doj-performance-statistics-assembly-written-questions\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Assessing usability of data",
+    "displayTitle": "Assessing usability of data",
+    "body": "<p><a href=\"https://data.gov.uk/dataset/176ae264-2484-4afe-a297-d51798eb8228/gp-practice-prescribing-data-presentation-level\">Comparable data for England can be found on data.gov.uk</a>. How do the two open data releases compare?</p>",
+    "_id": "60da4ad7d0a9ce7fbf3a6855",
+    "_parentId": "60da4ad7d0a9ce7fbf3a6792",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  }
+]

@@ -1,0 +1,797 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Sustainable open data",
+    "body": "<p>When searching for sustainable sources of open data, it is important that they are relevant, up-to-date and accessible.</p><p>A sustainable programme is one that continues to release data regularly, with at least the same or improving quality and quantity.</p><p>Using simple indicators listed above, it is possible to identify sustainable sources of open data that can be used in your future work.</p><p>In the next module, we explore how open data platforms can simplify the process of publishing and using data.</p>",
+    "_id": "60da4b03d0a9ce7fbf3a6e70",
+    "_layout": "left",
+    "_parentId": "60da4b02d0a9ce7fbf3a6def",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b03d0a9ce7fbf3a6e7b",
+    "_layout": "right",
+    "_parentId": "60da4b02d0a9ce7fbf3a6def",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " NI Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b03d0a9ce7fbf3a6edb",
+    "_layout": "right",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e2f",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why should we worry about sustainability?",
+    "displayTitle": "Why should we worry about sustainability?",
+    "body": "<p dir=\"ltr\">Open data must be relevant, up-to-date and accessible in order to be useful.</p><p dir=\"ltr\">A sustainable open data programme is one that continues to release data regularly with at least the same or improving quality and quantity.</p><p dir=\"ltr\"><strong>In this module we'll explore:</strong></p><ul><li dir=\"ltr\">How to make sense of sustainability</li><li dir=\"ltr\">Why sustainability matters to you</li><li dir=\"ltr\">What to look for in sustainable open datasets</li></ul>",
+    "_id": "60da4b03d0a9ce7fbf3a6edc",
+    "_layout": "left",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e2f",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Making open data sustainable – in two minutes",
+    "displayTitle": "Making open data sustainable – in two minutes",
+    "body": "<p>ODI Startup Programme Manager Ulrich Atz explains the importance of sustainability for open data and why it matters to users. He also talks through some of the key indicators that an open data initiative is built to last.</p>",
+    "_id": "60da4b03d0a9ce7fbf3a6edd",
+    "_layout": "full",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e30",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129879004",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why does sustainability matter?",
+    "displayTitle": "Why does sustainability matter?",
+    "body": "<p dir=\"ltr\">Why should I be concerned about whether the open data I work with is sustainable?</p>",
+    "_id": "60da4b03d0a9ce7fbf3a6ede",
+    "_layout": "full",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e31",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Creates solid foundations",
+        "_ariaLevel": 0,
+        "body": "<p>Sustainability is not just good for the users. The publisher also benefits from a sustainable open data programme by:</p><ul><li>enhancing the trust of the community in the publisher’s organisation</li><li>supporting the creation of new products and services</li><li>simplifying the publishers' reuse of their own data</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/946b631069738ba5eda749db4b5cea57bc482512.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/brown-concrete-building-with-pillars-against-clear-skies-121732/\" target=\"_blank\">Pixels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Creates solid foundations"
+      },
+      {
+        "title": "Enhances trust",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Sustainable open data allows a large community to build and analyse data for their own purposes.&nbsp;Good sustainable open data can enhance the publisher’s reputation and also builds trust and interest in the data. <a href=\"https://theodi.org/article/case-study-the-value-of-sharing-data-to-build-trust/\" target=\"_blank\">Syngenta publishes yearly data on its&nbsp;good growth plan</a>. While its intention was to build trust, there has been growing interest in using the data in other ways, for example to explore benchmarking efficiency across farms and regions.</p>",
+        "_graphic": {
+          "src": "course/en/assets/998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/hands-people-friends-communication-45842/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Enhances trust"
+      },
+      {
+        "title": "Builds business connections",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Sustained open data has the power to unlock new customer channels, enabling other businesses to build on a publisher's data. In many cases these businesses provide direct benefits back to the publisher, as is the case with Thomson Reuters. <a href=\"https://innovation.thomsonreuters.com/en/labs/data-identifiers.html\" target=\"_blank\">The company publishes identifiers openly</a>, which reduces costs for them as well as helps them to manage large amounts of complex data, as well as increasing value for their customers.</p>",
+        "_graphic": {
+          "src": "course/en/assets/0906f449a4639090ea7a59cef4c8ea9051af9e5a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Better for business"
+      },
+      {
+        "title": "Improves data usability",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">One of the most frequent reusers of a publisher's data may well be the publisher. Why separate the public release of data from internal data usage?</p><p><a href=\"http://content.tfl.gov.uk/deloitte-report-tfl-open-data.pdf\" target=\"_blank\">Many benefits of TfL’s open data are clearly documented</a>, but one benefit that is not often talked about is how open data helps TfL’s procurement processes.</p><p dir=\"ltr\">As its data is already open, when TfL goes to trade shows, all potential products are already using the&nbsp;data in real time. This means that no time is wasted on data sharing agreements on the technical implementation of data, and instead, TfL can make quicker procurement decisions based on value for money and quality of service.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b9f14a610349d3bea4dbb0377eb45d17ee83c625.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/top-view-photo-of-people-near-wooden-table-3183150/\" target=\"_blank\">fauxels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Improves usability"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What makes open data sustainable?",
+    "displayTitle": "What makes open data sustainable?",
+    "body": "<p dir=\"ltr\"><strong>What factors help make an open dataset sustainable?</strong></p>",
+    "_id": "60da4b03d0a9ce7fbf3a6edf",
+    "_layout": "left",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e32",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose three of the options below and select 'Submit'",
+    "_items": [
+      {
+        "text": "Secure funding",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Large file size",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Active support",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Wide reuse",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Restricting access to those who pay",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Secure funding, the active support of the publisher and wide reuse to generate value from the data all influence the sustainability of an open dataset.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong><br />Secure funding, the active support of the publisher and wide reuse to generate value from the data all influence the sustainability of an open dataset.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b03d0a9ce7fbf3a6ee0",
+    "_layout": "right",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e32",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4f381f4921d64083e0cc6b2eba3b108ec5eb04d.png",
+      "small": "course/en/assets/f4f381f4921d64083e0cc6b2eba3b108ec5eb04d.png",
+      "attribution": "<a href=\"https://pixabay.com/vectors/triangle-plants-abstract-1710880/ - pixelbay licence - 95c / 164 images\" target=\"_blank\">95c</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: Why does sustainability matter?",
+    "displayTitle": "Why does sustainability matter?",
+    "body": "<p><strong>Sustainable open data...</strong></p>",
+    "_id": "60da4b03d0a9ce7fbf3a6ee1",
+    "_layout": "left",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e33",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer and select 'Submit'",
+    "_items": [
+      {
+        "text": "encourages reuse of the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "is a tick box exercise",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "highlights the low quality of the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Sustainable open data releases <strong>encourage reuse of the data</strong>, as users can be confident that the data will be updated. This in turn drives innovation and the creation of new businesses and services on the back of that data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Sustainable open data releases <strong>encourage reuse of the data</strong>, as users can be confident that the data will be updated. This in turn drives innovation and the creation of new businesses and services on the back of that data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic ",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4b03d0a9ce7fbf3a6ee2",
+    "_layout": "right",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e33",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f19222f019e20c3ba0942ded1f25ef295902eeb9.png",
+      "small": "course/en/assets/f19222f019e20c3ba0942ded1f25ef295902eeb9.png",
+      "attribution": "<a href=\"https://pixabay.com/illustrations/green-grass-prato-echo-ecological-1968595/\" target=\"_blank\">Elias Riva</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What to look for when assessing sustainability?",
+    "displayTitle": "What to look for when assessing sustainability?",
+    "body": "<p><strong>What should you look for when assessing the sustainability of an open dataset?</strong></p>",
+    "_id": "60da4b03d0a9ce7fbf3a6ee3",
+    "_layout": "left",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e34",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose three of the options below and select 'Submit'",
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "The data's publishing history"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "How much it costs"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "Who is already using  the data"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "What format the data is in"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "Who is funding the data's release"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">Looking for the publishing history, who is using the data and how it is paid for are all key questions to ask when determining the sustainability of the dataset.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Looking for the publishing history, who is using the data and how it is paid for are all key questions to ask when determining the sustainability of the dataset.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b03d0a9ce7fbf3a6ee4",
+    "_layout": "right",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e34",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/13cfedc44e8dcd7f00c1bdf6b9b3b0022be7fdad.png",
+      "small": "course/en/assets/13cfedc44e8dcd7f00c1bdf6b9b3b0022be7fdad.png",
+      "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Looking for clues",
+    "displayTitle": "Looking for clues",
+    "body": "<p>A sustainable release combines secure funding, active support and wide reuse. These traits are not always obvious when you first find a dataset. Ask yourself the following to help spot good sources:</p>",
+    "_id": "60da4b03d0a9ce7fbf3a6ee5",
+    "_layout": "full",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e35",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "What is the source?",
+        "body": "<p>Ask yourself who has released the data and how much confidence you have in their commitment to continue to update it.<br /><br />One of the most important indicators of sustainability is how confident you feel about&nbsp;the organisation who collects it.<br /><br />If the data is from the government, might an election or a change in priority affect its open release?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What does the licence say?",
+        "body": "<p>Licences can also offer clues about data's sustainability.</p><p>When looking at a licence, ask yourself what the text might indicate about the dataset's future and the publisher's confidence in it? Does it contain a commitment to update it regularly?</p><p>Remember that without a licence, data is not truly open. The licence gives you certainty that data can be freely used and shared.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who is already using the data?",
+        "body": "<p dir=\"ltr\">The more widely a dataset is used, the more pressure there is for it to be sustained.</p><p>Ask yourself who else is using this dataset and for what purposes.</p><p dir=\"ltr\">Try to find out whether the dataset is used internally by the publisher.</p><p dir=\"ltr\">Both aspects indicate whether the publisher cares about the dataset and is under external pressure not to remove access to it, or change it for their own purposes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What is the publishing history? ",
+        "body": "<p>Assessing open data's sustainability ultimately depends on how much trust you place in its publisher.</p><p>Ask yourself how long the dataset has been published for. A long history of updates is a good sign, but beware external factors such as project length or term in office. A key indicator of a sustainable initiative is one that outlives these external factors.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "How can I contribute?",
+        "body": "<p>Using a dataset yourself will help drive its demand and influence its sustainability.</p><p>Think about joining any communities of practice that exist around the dataset.</p><p>Try to find out whether the publisher plays an active role in these communities and whether they act upon feedback to improve their services.</p><p>Ask yourself what value you can demonstrate that will enhance the sustainability that is ensured by the data publisher.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Making sense of sustainability in open data",
+    "displayTitle": "Making sense of sustainability in open data",
+    "body": "<p>A sustainable open dataset is supported by:</p>",
+    "_id": "60da4b03d0a9ce7fbf3a6ee6",
+    "_parentId": "60da4b03d0a9ce7fbf3a6e36",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Secure funding for open data",
+        "body": "<p>Just because a dataset can be freely used does not mean there is no cost to collecting or releasing the data. Funding can be secured by:</p><ul><li>Demonstrating the ongoing value of open data to the organisation</li><li>Gaining financial support from another source which supports open data publication</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Active support for open data",
+        "body": "<p>Making open data sustainable for an organisation usually requires senior-level backing to ensure it is prioritised, and the support of staff who are responsible for maintaining quality.</p><p>Active support is achieved when a company commits to maintaining open data as part of its daily operations.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Wide reuse of open data",
+        "body": "<p>Sustainable reuse is achieved when the services created with that data become critical to the success of the publisher’s business. The London transport system&nbsp;<a href=\"https://tfl.gov.uk/info-for/open-data-users/\" target=\"_blank\">Transport for London’s datasets</a>&nbsp;are used by millions when they access transport apps like&nbsp;<a href=\"https://citymapper.com/london?lang=en\" target=\"_blank\">Citymapper</a>. These apps drive usage of TfL’s services and, as such, TfL has a commitment in its digital strategy to regularly update the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]

@@ -1,0 +1,930 @@
+[
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Assessing open data",
+    "body": "<p>Assessing how useful data is can vary widely depending on the domain and the specific content. To help with this process there are a number of guidelines, including the 5 Star LInked Open Linked Data system.<br />The5 Star Linked Open Data system is a way to measure how well data is integrated into the web. Each star must be awarded sequentially and none can be skipped.</p><p>All data published on OpenDataNI should be to 3 star standard. If you need help, get in touch with us at <a href=\"mailto:opendata@finance-ni.gov.uk\">opendata@finance-ni.gov.uk</a></p>",
+    "_id": "60da4b3bd0a9ce7fbf3a7533",
+    "_layout": "left",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74a8",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The 5 Star Linked Open Data system",
+    "displayTitle": "The 5 Star Linked Open Data system",
+    "body": "<p>The 5 Star Linked Open Data system&nbsp;is a way to measure how well data is integrated into the web.</p><p>It examines the accessibility and technical usability of a dataset ranging from being available online (1 star) to being part of the web of data (5 stars). Each star must be awarded sequentially and none can be skipped.</p><p>The guidelines were developed by Sir Tim Berners-Lee in 2010 and have been adopted by publishers worldwide to help guide many open data initiatives, including OpenDataNI.</p><p>Every dataset published on OpenDataNI should be of 3 star standard. In this module, we explore how to do that.</p>",
+    "_id": "60da4b3bd0a9ce7fbf3a7534",
+    "_layout": "left",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74b4",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The first 3 stars",
+    "displayTitle": "The first 3 stars",
+    "body": "<p dir=\"ltr\">Publishing data that meets 3 stars means that the data is reusable.</p>",
+    "_id": "60da4b3bd0a9ce7fbf3a7535",
+    "_layout": "left",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74b6",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings to explore further.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "1 star - Open licence",
+        "body": "<p dir=\"ltr\">The first star is awarded to any data that is open at a basic level. The content, in any format, must be available under an open licence.</p><p dir=\"ltr\">Regardless of the quality of a dataset, it cannot qualify for the first star unless it is available under an open licence.</p><p dir=\"ltr\">A PDF file on a website available under an open licence is enough to fulfil the first star.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2 star - Re-usable format",
+        "body": "<p dir=\"ltr\">The second star is awarded to any data that allows for simple re-use. The guidelines state that the data must be available in a ‘highly-reusable, structured format’ that can be read by a machine and understood by a human.</p><p dir=\"ltr\">The key to achieving 2 stars is to select the most re-usable format. In some cases, the most re-usable format may be a closed or proprietary one, such as an Excel or Numbers file.</p><p dir=\"ltr\">Making data available in any format is better than none at all.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3 star - Open format",
+        "body": "<p dir=\"ltr\">The guidelines for the third star of open data state that the data must be available in a structured, machine-readable format which is not tied to a specific software package.</p><p>An example of a dataset that would be awarded 3 stars is a CSV file with an appropriate open licence, <a href=\"https://www.opendatani.gov.uk/dataset/gp-prescribing-data\">such as this example on OpenDataNI</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " NI logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b3bd0a9ce7fbf3a753f",
+    "_layout": "right",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74a9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "small": "course/en/assets/7ac658a53bf4a828175b32a479d87c8d1beaed71.png",
+      "attribution": "<a href=\"https://drive.google.com/file/d/1JDcVyYhGwoABZoCfyRw5vexSOzFimLcH/view?usp=sharing\" target=\"_blank\">Open Data NI</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b3bd0a9ce7fbf3a7540",
+    "_layout": "right",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74b4",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e75b5ea135fa3a1a636e64d93c85605bd992c031.png",
+      "small": "course/en/assets/e75b5ea135fa3a1a636e64d93c85605bd992c031.png",
+      "attribution": "<a href=\"http://5stardata.info\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " New graphic component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b3bd0a9ce7fbf3a7541",
+    "_layout": "right",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74b6",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e75b5ea135fa3a1a636e64d93c85605bd992c031.png",
+      "small": "course/en/assets/e75b5ea135fa3a1a636e64d93c85605bd992c031.png",
+      "attribution": "<a href=\"http://5stardata.info\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How useful is my data?",
+    "displayTitle": "How useful is my data?",
+    "body": "<p>Assessing how useful open data is can vary depending on the domain and the content. To assist this process, there are a number of best practice guidelines publishers and users can follow.</p><p>In this module, we look at the 5 Star Linked Open Data system and discover how this can be used to measure the technical usability of data.</p><p><strong>In this module we’ll explore the following:</strong></p><ul><li>What is the 5 Star Linked Open Data system</li><li>The first 3 Stars</li><li>How to recognise the stars in data</li></ul>",
+    "_id": "60da4b3bd0a9ce7fbf3a7542",
+    "_layout": "left",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74a9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60da4b3bd0a9ce7fbf3a7549",
+    "_layout": "right",
+    "_parentId": "60da4b3bd0a9ce7fbf3a74a8",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: The first 3 Stars",
+    "displayTitle": "The first 3 Stars",
+    "body": "<p dir=\"ltr\">The first star is all about ensuring anyone is free to access, use and share the data, regardless of format.</p><p dir=\"ltr\">The first star requires:&nbsp;</p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75bd",
+    "_layout": "left",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7505",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "The data to be openly licensed",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The data to downloadable from the web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The data to be available on request",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">The first star requires an open licence.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The first star requires an open licence.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " 3 stars",
+    "displayTitle": " ",
+    "body": "",
+    "_id": "60da4b3cd0a9ce7fbf3a75be",
+    "_layout": "right",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7505",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/deb6f03514c6b6a36cccbe261121de144291a01a.jpg",
+      "small": "course/en/assets/deb6f03514c6b6a36cccbe261121de144291a01a.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=188328170&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The first 3 Stars",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><strong>To make the data two stars:</strong></p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75bf",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7506",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Publish the data in the original format, for example a Microsoft Excel workbook with graphs, charts and formula",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Publish the data in PDF format",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Publish the data via an API",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">To make data two stars, it should be published in the original, reusable format AND have an open licence.</p><p dir=\"ltr\">To make data three stars, it should be published in a format like CSV which is open and reusable, as well as having an open licence.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">To make data two stars, it should be published in the original, reusable format AND have an open licence.</p><p dir=\"ltr\">To make data three stars, it should be published in a format like CSV which is open and reusable, as well as having an open licence.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The first 3 Stars",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><strong>To make the data three&nbsp;stars:</strong></p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75c0",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7506",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Embed the data in a web page e.g. a table on a website",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Publish the data in format such as CSV",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Publish the data in PDF format",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">To make data three stars, it should be published in a format like CSV which is open and reusable, as well as having an open licence.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>To make data three stars, it should be published in a format like CSV which is open and reusable, as well as having an open licence.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Stars 2 and 3",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">The second and third stars are about usability and more about the technical format of the data. The second star is about ensuring humans can access, use and reuse the data, while the third star is about machines being able to do the same.&nbsp;</p><p dir=\"ltr\">See if you can match the following.</p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75c1",
+    "_layout": "full",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7507",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Assessing data usability – in two minutes",
+    "displayTitle": "Assessing data usability – in two minutes",
+    "body": "<p dir=\"ltr\">ODI Trainer David Tarrant introduces the 5 Star Linked Open Data system as an assessment tool and helps you understand how and where it can be used.</p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75d6",
+    "_layout": "full",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7513",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129197206",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Unlocking the usability of open data",
+    "displayTitle": "Unlocking the usability of open data",
+    "body": "<p dir=\"ltr\">Each star gained represents an improvement in the usability of a dataset. Use the following simple checks to evaluate how many stars any dataset has.</p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75d7",
+    "_layout": "full",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7514",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "1 star - Checking the licence",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Finding the licence for an open dataset can be one of the hardest steps.</p><p dir=\"ltr\">An open licence is an explicit permission to use the data for both commercial and non-commercial purposes.=</p><p dir=\"ltr\">If the licence isn’t obvious, try looking:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">At the metadata record about the data</p></li><li dir=\"ltr\"><p dir=\"ltr\">In the terms and conditions of the web page or site</p></li><li dir=\"ltr\"><p dir=\"ltr\">Click on the data file, there might be a popup</p></li><li dir=\"ltr\"><p dir=\"ltr\">Inside the data file itself</p></li></ul><p dir=\"ltr\">Websites feature licensing information in different ways, you may have to search a little on each site to find them.</p>",
+        "_graphic": {
+          "src": "course/en/assets/fc2d8d76d6b6a31465bd431007605579174b6e34.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=148686812&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Providing certainty"
+      },
+      {
+        "title": "2 star - Checking usability",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">When you discover open data on the web, there are several ways in which you can assess how usable it is.&nbsp;</p><p dir=\"ltr\">Ask yourself:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Do I think that this is the most user-friendly format in which to publish this particular data?</p></li><li dir=\"ltr\"><p dir=\"ltr\">Does the file appear to be the same as the one the publisher uses?</p></li><li dir=\"ltr\"><p dir=\"ltr\">Is there any other information that has been added by a human?</p></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/6390ca99e74ee881fc1042c7a43913d91caed010.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=144334663&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Providing clarity"
+      },
+      {
+        "title": "3 star - Checking openness",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Open formats are sometimes difficult to assess.&nbsp;</p><p dir=\"ltr\">The following questions will help you understand if the data is available in an open format:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Can I open the file in more than one programme on my computer and still see the full functionality of the file?</p></li><li dir=\"ltr\"><p dir=\"ltr\">When I look up the file format (for example CSV) online, does it say I need to download a specific programme to open it?</p></li></ul><p dir=\"ltr\">CSV is the most popular open format and is easy to identify. CSV qualifies for 3 stars as long as the other 2 are achieved. The <a href=\"https://data.gov.uk/dataset/spend-over-25-000-in-fco-services\" target=\"_blank\">UK open data portal</a> provides some good examples of 3-star CSV datasets that are clearly marked with both a licence and file format.</p><p dir=\"ltr\">Many open data portals are also publishing Open Document Format (ODF) files. These files may appear perfect for open data, however it can be difficult to identify the tool that can open these files.</p>",
+        "_graphic": {
+          "src": "course/en/assets/301936c4e7d37e6647647b3c3e5a305f0ae8a56f.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/science-futuristic-internet-high-computer-technology-142601674?src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Enabling innovation"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Dataset Example 1",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><a href=\"http://www.fao.org/faostat/en/#data/GF\" target=\"_blank\">Take a look at this dataset</a> from the Food and Agriculture Organisation of the UN. According to the 5 Star Linked Open Data system, how many stars does this dataset achieve?</p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75d8",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7515",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "No stars",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "1 star",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "2 stars",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "3 stars",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">This data has no stars. Even though it is available in a reusable and open format, as the licence is not open (CC-BY-NC), it doesn’t achieve the first star. Each star must be awarded sequentially and none can be skipped.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">This data has no stars. Even though it is available in a reusable and open format, as the licence is not open (CC-BY-NC), it doesn’t achieve the first star. Each star must be awarded sequentially and none can be skipped.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Dataset Example 2",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Take a look at <a href=\"https://data.gov.uk/dataset/090b5b23-5020-4480-96a0-8b294ca82653/local-authority-food-law-enforcement-returns\" target=\"_blank\">this dataset from the Food Standards Agency.</a> According to the 5 Star Linked Open Data system, how many stars does this dataset achieve?</p>",
+    "_id": "60da4b3cd0a9ce7fbf3a75d9",
+    "_parentId": "60da4b3bd0a9ce7fbf3a7515",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "No stars",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "1 star",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "2 stars",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "3 stars",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">This dataset is 3 star data as it has an open licence (the Open Government Licence) and is available in a reusable and open format (CSV).</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">This dataset is 3 star data as it has an open licence (the Open Government Licence) and is available in a reusable and open format (CSV).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
