@@ -40,27 +40,6 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
-  "94164aeed2f6885fcdf44f9fe5484855c5238353.jpg": {
-    "title": "Data",
-    "description": "What is open data",
-    "source": "https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366",
-    "licence": "Shutterstock standard licence",
-    "attribution": "leromin",
-    "tags": [
-      {
-        "title": "Cartoon",
-        "_id": "608686bfd0a9ce7fbf3a2d0a"
-      },
-      {
-        "title": "Data",
-        "_id": "608686bed0a9ce7fbf3a2cf4"
-      },
-      {
-        "title": "blocks",
-        "_id": "608686bfd0a9ce7fbf3a2d09"
-      }
-    ]
-  },
   "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
     "title": "Adapt eLearning",
     "description": "Adapt eLearning",
@@ -71,23 +50,6 @@
       {
         "title": "client logos",
         "_id": "608686c4d0a9ce7fbf3a2df5"
-      }
-    ]
-  },
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "source": "http://theodi.org/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "608686c5d0a9ce7fbf3a2e19"
-      },
-      {
-        "title": "intro logo",
-        "_id": "608686c5d0a9ce7fbf3a2e18"
       }
     ]
   },
@@ -230,6 +192,14 @@
     "source": "https://www.opendatani.gov.uk/",
     "licence": "All rights reserved",
     "attribution": "NI No text",
+    "tags": []
+  },
+  "a67516a8b00872827e9f30646ad50ce0b274af2d.svg": {
+    "title": "NI-Logo-SVG.svg",
+    "description": "NI Logo SVG",
+    "source": "https://www.opendatani.gov.uk/",
+    "licence": "All rights reserved",
+    "attribution": "Open Data NI",
     "tags": []
   }
 }

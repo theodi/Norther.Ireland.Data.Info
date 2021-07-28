@@ -161,7 +161,7 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "60d9a7fcd0a9ce7fbf3a5b71",
+        "_id": "60fa9aafd0a9ce7fbf3a7ffd",
         "_skipIfComplete": false,
         "_className": ""
       }
@@ -257,7 +257,7 @@
     "_nav": {
       "nav": "#ffffff",
       "nav-inverted": "#ffffff",
-      "hide-nav": true,
+      "hide-nav": false,
       "nav-icon": "#ffffff",
       "nav-icon-inverted": "#9096a0",
       "nav-icon-hover": "#ffffff",
@@ -272,7 +272,7 @@
       "nav-progress": "#8cc63f",
       "nav-progress-inverted": "",
       "nav-progress-border": "",
-      "nav-progress-hover": "#dddddd",
+      "nav-progress-hover": "",
       "nav-progress-inverted-hover": "",
       "nav-progress-border-hover": ""
     },
