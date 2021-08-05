@@ -1,21 +1,4 @@
 {
-  "1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg": {
-    "title": "people talking",
-    "description": "people talking",
-    "source": "https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791",
-    "licence": "Shutterstock standard licence",
-    "attribution": "tai11",
-    "tags": [
-      {
-        "title": "people",
-        "_id": "608686bed0a9ce7fbf3a2cf3"
-      },
-      {
-        "title": "talking",
-        "_id": "608686bfd0a9ce7fbf3a2d22"
-      }
-    ]
-  },
   "326566ec4ff6a7d06a52389970b26d62e144d93d.jpg": {
     "title": "Flying pictures",
     "description": "Flying pictures",
@@ -84,23 +67,6 @@
       {
         "title": "client logos",
         "_id": "608686c4d0a9ce7fbf3a2df5"
-      }
-    ]
-  },
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "source": "http://theodi.org/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "608686c5d0a9ce7fbf3a2e19"
-      },
-      {
-        "title": "intro logo",
-        "_id": "608686c5d0a9ce7fbf3a2e18"
       }
     ]
   },

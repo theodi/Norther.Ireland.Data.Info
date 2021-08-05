@@ -16,23 +16,6 @@
       }
     ]
   },
-  "1680b7a53f513d6f310f30526da1991df11850a5.jpg": {
-    "title": "Tube map",
-    "description": "Tube map",
-    "source": "https://www.shutterstock.com/image-photo/london-england-uk-november-04-2007-173841626",
-    "licence": "Shutterstock standard licence",
-    "attribution": "Claudio Divizia",
-    "tags": [
-      {
-        "title": "Map",
-        "_id": "608686bed0a9ce7fbf3a2ced"
-      },
-      {
-        "title": "tube",
-        "_id": "608686bfd0a9ce7fbf3a2d12"
-      }
-    ]
-  },
   "3cb2758010e55c79683ddf0b647cbb8148fb9943.jpg": {
     "title": "Access granted",
     "description": "Access narrative",
@@ -74,39 +57,6 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
-  "b953c92adb644c17f2f18a9fed86e2c8b42ba727.jpg": {
-    "title": "Containers",
-    "description": "Shipping containers",
-    "source": "http://www.shutterstock.com/pic-270451631.html",
-    "licence": "Shutterstock standard licence",
-    "attribution": "Oleksiy Mark",
-    "tags": [
-      {
-        "title": "colour",
-        "_id": "608686c3d0a9ce7fbf3a2da9"
-      },
-      {
-        "title": "containers",
-        "_id": "608686c4d0a9ce7fbf3a2dd9"
-      },
-      {
-        "title": "construction",
-        "_id": "608686c4d0a9ce7fbf3a2ddb"
-      },
-      {
-        "title": "closed",
-        "_id": "608686c4d0a9ce7fbf3a2dda"
-      },
-      {
-        "title": "boxes",
-        "_id": "608686c4d0a9ce7fbf3a2ddc"
-      },
-      {
-        "title": "shipping",
-        "_id": "608686c4d0a9ce7fbf3a2ddd"
-      }
-    ]
-  },
   "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
     "title": "Adapt eLearning",
     "description": "Adapt eLearning",
@@ -117,23 +67,6 @@
       {
         "title": "client logos",
         "_id": "608686c4d0a9ce7fbf3a2df5"
-      }
-    ]
-  },
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "source": "http://theodi.org/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "608686c5d0a9ce7fbf3a2e19"
-      },
-      {
-        "title": "intro logo",
-        "_id": "608686c5d0a9ce7fbf3a2e18"
       }
     ]
   },

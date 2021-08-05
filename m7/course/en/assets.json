@@ -28,27 +28,6 @@
       }
     ]
   },
-  "4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg": {
-    "title": "Pie chart",
-    "description": "Secure funding, pie chart, segment",
-    "source": "https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id",
-    "licence": "Shutterstock standard licence",
-    "attribution": "jiunn",
-    "tags": [
-      {
-        "title": "Icon",
-        "_id": "608686c0d0a9ce7fbf3a2d64"
-      },
-      {
-        "title": "pie",
-        "_id": "608686c0d0a9ce7fbf3a2d66"
-      },
-      {
-        "title": "ODI splash",
-        "_id": "608686c0d0a9ce7fbf3a2d65"
-      }
-    ]
-  },
   "50253022ac8650bdccad84f4225f5100045c6da5.png": {
     "title": "CC-BY-SA",
     "description": "CC-BY-SA",
@@ -83,23 +62,6 @@
       {
         "title": "client logos",
         "_id": "608686c4d0a9ce7fbf3a2df5"
-      }
-    ]
-  },
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "source": "http://theodi.org/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "608686c5d0a9ce7fbf3a2e19"
-      },
-      {
-        "title": "intro logo",
-        "_id": "608686c5d0a9ce7fbf3a2e18"
       }
     ]
   },

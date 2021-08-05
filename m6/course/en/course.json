@@ -161,7 +161,7 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "60da4ae6d0a9ce7fbf3a6937",
+        "_id": "60fa9e5fd0a9ce7fbf3a80a8",
         "_skipIfComplete": false,
         "_className": ""
       }
@@ -176,9 +176,9 @@
       "device-width-small": "520px",
       "device-width-medium": "720px",
       "device-width-large": "900px",
-      "title-family": "'WPP Medium','Open Sans', Helvetica, Arial, sans-serif",
-      "body-family": "'WPP Light','Open Sans', Helvetica, Arial, sans-serif",
-      "btn-family": "'WPP Light','Open Sans', Helvetica, Arial, sans-serif",
+      "title-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "body-family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "btn-family": "'Open Sans', Helvetica, Arial, sans-serif",
       "font-color": "#000000",
       "font-color-inverted": "#ffffff",
       "link": "",

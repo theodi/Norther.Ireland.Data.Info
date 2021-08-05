@@ -1,29 +1,4 @@
 {
-  "1497c2f21a066474c61b08652c841ee6768bfea3.jpg": {
-    "title": "Blocks squares",
-    "description": "Blocks squares",
-    "source": "https://www.shutterstock.com/image-illustration/colorful-cubes-four-levels-abstract-background-200818673?src=lb-36497927",
-    "licence": "Shutterstock standard licence",
-    "attribution": "April Cat",
-    "tags": [
-      {
-        "title": "blocks",
-        "_id": "608686bfd0a9ce7fbf3a2d09"
-      },
-      {
-        "title": "Cartoon",
-        "_id": "608686bfd0a9ce7fbf3a2d0a"
-      },
-      {
-        "title": "Generic",
-        "_id": "608686bfd0a9ce7fbf3a2d0b"
-      },
-      {
-        "title": "squares",
-        "_id": "608686bfd0a9ce7fbf3a2d0c"
-      }
-    ]
-  },
   "50253022ac8650bdccad84f4225f5100045c6da5.png": {
     "title": "CC-BY-SA",
     "description": "CC-BY-SA",
@@ -58,23 +33,6 @@
       {
         "title": "client logos",
         "_id": "608686c4d0a9ce7fbf3a2df5"
-      }
-    ]
-  },
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "source": "http://theodi.org/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "608686c5d0a9ce7fbf3a2e19"
-      },
-      {
-        "title": "intro logo",
-        "_id": "608686c5d0a9ce7fbf3a2e18"
       }
     ]
   },
@@ -181,11 +139,11 @@
     "tags": []
   },
   "f6da9b8743f4f6ac921fda6a7fda0dbf7d8cdf64.jpg": {
-    "title": "sun-dusk-430x430",
+    "title": "sun-430x430",
     "description": "benefits of using",
     "source": "https://unsplash.com/photos/5YWf-5hyZcw",
     "licence": "CC-BY",
-    "attribution": "james day / jamesdayart.com",
+    "attribution": "www.jamesdayart.com / James Day",
     "tags": []
   },
   "84d4e97867d8d6ac1431cde5ec5ca9a12f0936e6.png": {

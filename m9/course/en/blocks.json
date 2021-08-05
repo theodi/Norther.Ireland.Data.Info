@@ -12,8 +12,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2bd0a9ce7fbf3a7270",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7250",
+    "_id": "60fa9f31d0a9ce7fbf3a80e7",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e6",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 1
@@ -32,8 +32,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72be",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7260",
+    "_id": "60fa9f31d0a9ce7fbf3a80e8",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e4",
     "_type": "block",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -44,7 +44,7 @@
     }
   },
   {
-    "title": " Video",
+    "title": " Other data structures",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -56,8 +56,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72c4",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7260",
+    "_id": "60fa9f31d0a9ce7fbf3a80ea",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e5",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -91,7 +91,7 @@
     }
   },
   {
-    "title": " Other data structures",
+    "title": " Video",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -103,8 +103,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72e1",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7242",
+    "_id": "60fa9f31d0a9ce7fbf3a80e9",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -150,8 +150,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72bf",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7260",
+    "_id": "60fa9f31d0a9ce7fbf3a80ec",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e5",
     "_type": "block",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -174,8 +174,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72c3",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7242",
+    "_id": "60fa9f31d0a9ce7fbf3a80eb",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e4",
     "_type": "block",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -198,8 +198,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72c0",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7260",
+    "_id": "60fa9f31d0a9ce7fbf3a80ed",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -245,8 +245,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72c1",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7260",
+    "_id": "60fa9f32d0a9ce7fbf3a80ee",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -292,8 +292,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72c2",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7260",
+    "_id": "60fa9f32d0a9ce7fbf3a80ef",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -339,8 +339,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60da4b2cd0a9ce7fbf3a72e2",
-    "_parentId": "60da4b2bd0a9ce7fbf3a7260",
+    "_id": "60fa9f32d0a9ce7fbf3a80f0",
+    "_parentId": "60fa9f31d0a9ce7fbf3a80e4",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
